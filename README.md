@@ -5,7 +5,7 @@ A curated list of awesome resources for reward construction in AI agents. This r
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [The Second Half & Era of Experience](#The Second Half & Era of Experience)
+- [The Second Half & Era of Experience](#The-Second-Half-&Era-of-Experience)
 - [Verifiable Task Construction](#verifiable-task-construction)
 - [Converting Open-Domain Tasks to Verifiable Tasks](#converting-open-domain-tasks-to-verifiable-tasks)
 - [Reward Model Construction](#reward-model-construction)
