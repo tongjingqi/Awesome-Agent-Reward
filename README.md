@@ -1,58 +1,167 @@
 # Awesome-Agent-Reward
 
-A curated list of awesome resources for **reward construction** in AI agents. This repository covers seminal papers, cutting-edge research, and practical guides on shaping and defining rewards to build more intelligent and aligned autonomous agents.
+A curated list of awesome resources for reward construction in AI agents. This repository covers seminal papers, cutting-edge research, and practical guides on shaping and defining rewards to build more intelligent and aligned autonomous agents.
 
-## Why Reward Construction?
+## Table of Contents
 
-We are moving from an era of "exams" (static benchmarks) to one of "projects" (interactive, multi-turn problem-solving). In this new paradigm, an agent's ability to learn from experience in its environment is paramount. This is the core idea behind concepts like **"The Second Half"** and the **"Era of Experience"**. The key to unlocking this potential lies in effectively defining and constructing reward signals.
+- [Introduction](#introduction)
+- [Theoretical Foundations](#theoretical-foundations)
+- [Verifiable Task Construction](#verifiable-task-construction)
+- [Converting Open-Domain Tasks to Verifiable Tasks](#converting-open-domain-tasks-to-verifiable-tasks)
+- [Reward Model Construction](#reward-model-construction)
+- [Real-World Task Reward Construction](#real-world-task-reward-construction)
+- [Unsupervised Reward Construction](#unsupervised-reward-construction)
+- [World Model & Real-World Reward Construction](#world-model--real-world-reward-construction)
+- [Evaluation and Benchmarks](#evaluation-and-benchmarks)
+- [Contributing](#contributing)
 
-By building robust reward mechanisms, we can guide agents to interact with their environment, learn from their own history, and develop reasoning and planning capabilities that may eventually surpass human-generated data. This repository categorizes and explores the diverse methodologies for reward construction.
+## Introduction
 
-## Papers
+**What is Reward Construction?**
 
-### 1\. Reward from Verifiable Environments (Games, Puzzles, etc.)
+Reward construction is the process of designing and implementing reward signals that guide AI agents toward desired behaviors and outcomes. It bridges the gap between human intentions and machine learning objectives, enabling agents to learn complex behaviors through reinforcement learning.
 
-This approach uses tasks with clear, objective success criteria (like games or logical puzzles) to generate reward signals. It's a foundational method for enhancing the general reasoning capabilities of models.
+**Why is Reward Construction Important?**
 
-  * **Code2Logic: Game-Code-Driven Data Synthesis for Enhancing VLMs General Reasoning**: Leverages the clear state transitions and causal logic inherent in game code to generate verifiable multi-modal reasoning data, which can be used to train more capable VLMs.
-  * **Play to Generalize: Learning to Reason Through Game Play**: A small expert model is first trained to play a game (e.g., Snake). The expert's predictions then serve as ground-truth rewards to train a large multi-modal model, enhancing its general reasoning.
-  * **SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**: Uses the intrinsic win/loss signals in zero-sum games like chess for self-play. This allows an agent to improve its reasoning capabilities through reinforcement learning without requiring human-annotated data.
-  * **InterThinker**: A framework for enhancing agent capabilities through interactive thinking and problem-solving in structured environments.
+As we transition from the "first half" (exam-based evaluation) to the "second half" (project-based interaction) of AI development, reward construction becomes crucial for:
+- Enabling agents to learn from environmental feedback
+- Supporting continuous learning from interaction history  
+- Developing superhuman planning and reasoning capabilities
+- Moving beyond human-derived data limitations
 
-### 2\. Reward from Existing Data (Pre-training Data, Human Preferences)
+## Theoretical Foundations
 
-These methods focus on extracting reward signals from large, pre-existing datasets, either by reframing pre-training objectives or by modeling human preferences.
+### The Second Half & Era of Experience
 
-#### 2.1 From Open-Domain Data
+**The Second Half**: Transitioning from creating new methods and models to defining new tasks
+- **First Half Focus**: Exam-like tasks with universal methods (next token prediction, RL) and architectures (Transformer, GPT)
+- **Turning Point**: Organic combination of universal methods and architectures, where RL on large models achieves generalization
+- **Second Half Focus**: Project-based scenarios with multi-turn interactions and temporal learning
 
-  * **Reinforcement Pre-training**: Frames the standard "next token prediction" task as a reinforcement learning problem, where the ground-truth next token serves as a verifiable reward signal, allowing RL to be applied to massive unsupervised datasets.
-  * **Learning to Reason for Long-Form Story Generation**: Lacks a direct verifiable reward. This work constructs a reward by training a model to generate intermediate reasoning steps; a high reward is given if these steps increase the probability of generating the ground-truth next chapter.
+**Era of Experience**: Large Models + Reinforcement Learning = General Superhuman Agents
+- **Previous Era**: Human Data Era with limitations of human-generated data and capabilities
+- **Current Opportunity**: Combining self-discovery capabilities with task generality from the human data era
+- **Key Components**: Environmental rewards, autonomous interaction, continuous experience streams, non-human planning and reasoning
 
-#### 2.2 From Human Preferences (Reward Modeling)
+## Verifiable Task Construction
 
-  * **WorldPM: Scaling Human Preference Modeling**: Explores the scalability of preference modeling by training on 15 million examples of human interactions from online forums. It finds that scalability laws are most apparent in objective domains like mathematics.
-  * **Process Reward Modeling**: Focuses on rewarding the *process* of reaching a solution, rather than just the final outcome. This encourages more robust and interpretable reasoning.
+Scaling task quantities through constructing verifiable task gyms, enhancing model general capabilities by solving puzzles and games.
 
-### 3\. Reward for Real-World Interaction
+### Multi-Modal Reasoning
+- **Code2Logic: Game-Code-Driven Data Synthesis for Enhancing VLMs General Reasoning** - Using game code to synthesize verifiable multi-modal reasoning data for improving VLM general reasoning through RL
 
-This category includes methods that construct rewards for agents operating in complex, real-world environments like the web.
+- **Play to Generalize: Learning to Reason Through Game Play** - Training expert models on Snake game to provide ground truth for multi-modal reasoning rewards, improving general reasoning capabilities through RL
 
-  * **WebDancer: Towards Autonomous Information Seeking Agency**: Addresses the lack of agent trajectory data for search tasks. It first generates question-answer pairs on a target webpage and then uses a powerful model to distill the search and navigation trajectory, which is then used as a basis for reinforcement learning.
+### Zero-Sum Games & Strategic Reasoning  
+- **SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning** - Using chess games' natural verifiable environments for self-play with win/loss rewards to enhance general reasoning
 
-### 4\. Unsupervised & Self-Generated Rewards
+### Text-Based Puzzle Solving
+- **InterThinker** - Advanced reasoning through structured thinking processes
 
-A cutting-edge approach where agents learn with minimal or no human supervision by creating their own curriculum and reward signals.
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** - Systematic approach to generating logical reasoning data
 
-  * **Absolute Zero: Reinforced Self-play Reasoning with Zero Data**: The model acts as both a "proposer" (creating problems) and a "solver." Since the tasks (e.g., coding) have a verifiable outcome via a compiler, the agent can use this feedback for RL, improving both its problem-generation and problem-solving skills without external data.
-  * **Enhancing Reasoning Ability through RL without Labels**: Explores methods for improving reasoning through reinforcement learning signals derived internally from the model (e.g., entropy, exploration), rather than from external labels.
+- **Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles** - Creating synthetic puzzles to enhance logical reasoning capabilities
 
-### 5\. Future Directions: World Models & Embodied Agents
+## Converting Open-Domain Tasks to Verifiable Tasks
 
-This frontier explores using simulators and advanced models to generate rewards for agents that interact with the physical or simulated world.
+Transforming next token prediction and pre-training tasks into RL-compatible formats.
 
-  * **Can Language Models Serve as Text-Based World Simulators?**: Investigates the potential of LLMs to function as simulators for interactive environments, which could provide rich feedback for agent training.
-  * **VLM for Embodied Intelligence Reward Construction**: Discusses how Vision-Language Models (VLMs) can be leveraged to create dense reward functions for robotics and embodied AI tasks, translating visual goals into tangible rewards.
+- **Reinforcement Pre-training** - Converting next token prediction tasks into verifiable rewards where the next token serves as the verification signal
+
+- **Learning to Reason for Long-Form Story Generation** - Constructing next chapter prediction tasks for story generation, using subsequent chapters as ground truth for reward construction
+
+- **RLPR: Extrapolating RLVR to General Domains without Verifiers** - Extending reinforcement learning from verifiable reasoning to general domains
+
+- **Reinforcing General Reasoning without Verifiers** - General reasoning enhancement without explicit verification mechanisms
+
+## Reward Model Construction
+
+Training reward models from preference data to enable policy learning on general tasks.
+
+### Preference Modeling & Scaling
+- **WorldPM: Scaling Human Preference Modeling** - Exploring scalability of preference modeling using 15M human forum data, showing clear scaling laws in objective tasks like mathematics
+
+### Multi-Modal & Specialized Reward Models  
+- **WavReward: Spoken Dialogue Models With Generalist Reward Evaluators** - Reward evaluation for spoken dialogue systems
+
+- **VLM-based Reward Construction for Embodied Intelligence** - Using Vision-Language Models to construct rewards for embodied AI tasks
+
+### Process Supervision
+- **Process Reward Modeling** - Supervising intermediate reasoning steps rather than just final outcomes
+
+## Real-World Task Reward Construction
+
+Directly targeting real-world applications with practical reward construction.
+
+- **WebDancer: Towards Autonomous Information Seeking Agency** - Synthesizing agent action trajectories for search tasks, constructing verifiable QA pairs for RL training on information seeking
+
+## Unsupervised Reward Construction
+
+Finding reward signals from model internals without external supervision.
+
+- **Absolute Zero: Reinforced Self-play Reasoning with Zero Data** - Models serving dual roles as problem proposers and solvers, using compiler verification for self-improvement without external data
+
+- **Enhancing Reasoning Ability through RL without Labels** - Completely unsupervised methods for reasoning enhancement
+
+- **The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models** - Understanding how entropy affects reinforcement learning in reasoning models
+
+## World Model & Real-World Reward Construction
+
+Using world models and real-world interactions for reward construction.
+
+- **Can Language Models Serve as Text-Based World Simulators?** - Exploring LLMs as world simulators for reward construction
+
+- **Embodied Intelligence Reward Construction** - Comprehensive approaches to reward design in embodied AI systems
+
+## Evaluation and Benchmarks
+
+### Reward Model Evaluation
+- **RewardBench** - Comprehensive benchmark for reward model evaluation
+
+- **VL-RewardBench** - Vision-language reward model benchmarking
+
+### Learning Capability Assessment  
+- **EvaLearn: Quantifying the Learning Capability and Efficiency of LLMs via Sequential Problem Solving** - Evaluating learning capabilities through sequential problem solving rather than independent test cases
+
+## Comparison of Reward Construction Approaches
+
+| Approach | Generality & Transfer | Task Type | Implementation Difficulty |
+|----------|----------------------|-----------|--------------------------|
+| **Verifiable Task Construction** | Moderate - Puzzle/game solving as AGI prerequisite | Toy tasks with indirect real-world transfer | Medium - Requires manual task scaling |
+| **Open-Domain → Verifiable** | High generality, transfer depends on task type | Medium toy level - Models general tasks | Low manual effort - Natural data sources with built-in rewards |
+| **Reward Model Based** | Strong neural network generality but hackable | Real tasks | Depends on data collection difficulty |
+| **Real-World Task** | Depends on task coverage | Direct real-world applications | Moderate - Automated but needs diversity consideration |
+| **Unsupervised Internal** | Relatively strong | Both toy and real tasks | Low human effort - Potential for superhuman emergence |
+| **World Model & Real-World** | Strong - Depends on world model generality | Varies from toy to real | Higher difficulty for more general approaches |
 
 ## Contributing
 
-Your contributions are always welcome\! If you have any papers or resources to add, please feel free to open a pull request.
+We welcome contributions to this repository! Please feel free to:
+
+1. Submit pull requests to add new papers
+2. Improve paper categorization and descriptions  
+3. Add implementation details or code repositories
+4. Suggest new categories or reorganization
+
+When adding papers, please include:
+- Paper title and authors
+- Brief description of the reward construction method
+- Key contributions and results
+- Links to paper and code (if available)
+
+## Citation
+
+If you find this repository useful, please consider citing:
+
+```bibtex
+@misc{awesome-agent-reward,
+  title={Awesome Agent Reward: Reward Construction for AI Agents},
+  author={[Jingqi Tong, Yurong Mou, Hangcheng li, Jun zhao]},
+  year={2025},
+  url={https://github.com/tongjingqi/Awesome-Agent-Reward}
+}
+```
+
+---
+
+**Note**: This is a living document that will be continuously updated as the field of agent reward construction evolves. Stay tuned for the latest developments!
