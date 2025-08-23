@@ -82,8 +82,6 @@ Training reward models from preference data to enable policy learning on general
 ### Multi-Modal & Specialized Reward Models  
 - **[WavReward: Spoken Dialogue Models With Generalist Reward Evaluators](https://arxiv.org/abs/2505.09558)** - Reward evaluation for spoken dialogue systems
 
-- **VLM-based Reward Construction for Embodied Intelligence** - Using Vision-Language Models to construct rewards for embodied AI tasks
-
 ### Process Supervision
 - **[Process Reward Modeling](https://arxiv.org/abs/2501.07301)** - Supervising intermediate reasoning steps rather than just final outcomes
 
@@ -109,7 +107,7 @@ Using world models and real-world interactions for reward construction.
 
 - **[Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485)** - Exploring LLMs as world simulators for reward construction
 
-- **Embodied Intelligence Reward Construction** - Comprehensive approaches to reward design in embodied AI systems
+- **[VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/abs/2505.18719)** -  Reward design in embodied AI systems
 
 ## Evaluation and Benchmarks
 
