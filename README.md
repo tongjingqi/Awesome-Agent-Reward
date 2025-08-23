@@ -29,9 +29,7 @@ As we transition from the "first half" (exam-based evaluation) to the "second ha
 - Developing superhuman planning and reasoning capabilities
 - Moving beyond human-derived data limitations
 
-## Theoretical Foundations
-
-### The Second Half & Era of Experience
+## The Second Half & Era of Experience
 
 **The Second Half**: Transitioning from creating new methods and models to defining new tasks
 - **First Half Focus**: Exam-like tasks with universal methods (next token prediction, RL) and architectures (Transformer, GPT)
