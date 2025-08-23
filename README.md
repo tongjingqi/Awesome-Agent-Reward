@@ -48,27 +48,36 @@ As we transition from the "first half" (exam-based evaluation) to the "second ha
 Scaling task quantities through constructing verifiable task gyms, enhancing model general capabilities by solving puzzles and games.
 
 ### Multi-Modal Reasoning
-- **Code2Logic: Game-Code-Driven Data Synthesis for Enhancing VLMs General Reasoning** - Using game code to synthesize verifiable multi-modal reasoning data for improving VLM general reasoning through RL
+- **[Code2Logic: Game-Code-Driven Data Synthesis for Enhancing VLMs General Reasoning](https://arxiv.org/abs/2505.13886)** - Using game code to synthesize verifiable multi-modal reasoning data for improving VLM general reasoning through RL
 
-- **Play to Generalize: Learning to Reason Through Game Play** - Training expert models on Snake game to provide ground truth for multi-modal reasoning rewards, improving general reasoning capabilities through RL
+- **[Play to Generalize: Learning to Reason Through Game Play](https://arxiv.org/abs/2506.08011)** - Training expert models on Snake game to provide ground truth for multi-modal reasoning rewards, improving general reasoning capabilities through RL
 
 ### Zero-Sum Games & Strategic Reasoning  
-- **SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning** - Using chess games' natural verifiable environments for self-play with win/loss rewards to enhance general reasoning
+- **[SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119)** - Using chess games' natural verifiable environments for self-play with win/loss rewards to enhance general reasoning
 
 ### Text-Based Puzzle Solving
 - **InterThinker** - Advanced reasoning through structured thinking processes
 
-- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** - Systematic approach to generating logical reasoning data
+### Text-Based Puzzle Solving
+- **InterThinker** - Advanced reasoning through structured thinking processes
 
-- **Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles** - Creating synthetic puzzles to enhance logical reasoning capabilities
+- **[SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond](https://arxiv.org/abs/2505.19641)** - Systematic approach to generating logical reasoning data
+
+- **[Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles](https://arxiv.org/abs/2505.19914)** - Creating synthetic puzzles to enhance logical reasoning capabilities
 
 ## Converting Open-Domain Tasks to Verifiable Tasks
 
 Transforming next token prediction and pre-training tasks into RL-compatible formats.
 
-- **Reinforcement Pre-training** - Converting next token prediction tasks into verifiable rewards where the next token serves as the verification signal
+- **[Reinforcement Pre-training](https://arxiv.org/abs/2506.08007)** - Converting next token prediction tasks into verifiable rewards where the next token serves as the verification signal
 
-- **Learning to Reason for Long-Form Story Generation** - Constructing next chapter prediction tasks for story generation, using subsequent chapters as ground truth for reward construction
+- **[Learning to Reason for Long-Form Story Generation](https://arxiv.org/abs/2503.22828)** - Constructing next chapter prediction tasks for story generation, using subsequent chapters as ground truth for reward construction
+
+- **RLPR: Extrapolating RLVR to General Domains without Verifiers** - Extending reinforcement learning from verifiable reasoning to general domains
+
+- **Reinforcing General Reasoning without Verifiers** - General reasoning enhancement without explicit verification mechanisms
+
+## Reward Model Construction
 
 - **RLPR: Extrapolating RLVR to General Domains without Verifiers** - Extending reinforcement learning from verifiable reasoning to general domains
 
@@ -79,7 +88,7 @@ Transforming next token prediction and pre-training tasks into RL-compatible for
 Training reward models from preference data to enable policy learning on general tasks.
 
 ### Preference Modeling & Scaling
-- **WorldPM: Scaling Human Preference Modeling** - Exploring scalability of preference modeling using 15M human forum data, showing clear scaling laws in objective tasks like mathematics
+- **[WorldPM: Scaling Human Preference Modeling](https://arxiv.org/abs/2505.10527)** - Exploring scalability of preference modeling using 15M human forum data, showing clear scaling laws in objective tasks like mathematics
 
 ### Multi-Modal & Specialized Reward Models  
 - **WavReward: Spoken Dialogue Models With Generalist Reward Evaluators** - Reward evaluation for spoken dialogue systems
@@ -93,13 +102,13 @@ Training reward models from preference data to enable policy learning on general
 
 Directly targeting real-world applications with practical reward construction.
 
-- **WebDancer: Towards Autonomous Information Seeking Agency** - Synthesizing agent action trajectories for search tasks, constructing verifiable QA pairs for RL training on information seeking
+- **[WebDancer: Towards Autonomous Information Seeking Agency](https://arxiv.org/abs/2505.22648)** - Synthesizing agent action trajectories for search tasks, constructing verifiable QA pairs for RL training on information seeking
 
 ## Unsupervised Reward Construction
 
 Finding reward signals from model internals without external supervision.
 
-- **Absolute Zero: Reinforced Self-play Reasoning with Zero Data** - Models serving dual roles as problem proposers and solvers, using compiler verification for self-improvement without external data
+- **[Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)** - Models serving dual roles as problem proposers and solvers, using compiler verification for self-improvement without external data
 
 - **Enhancing Reasoning Ability through RL without Labels** - Completely unsupervised methods for reasoning enhancement
 
@@ -109,7 +118,7 @@ Finding reward signals from model internals without external supervision.
 
 Using world models and real-world interactions for reward construction.
 
-- **Can Language Models Serve as Text-Based World Simulators?** - Exploring LLMs as world simulators for reward construction
+- **[Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485)** - Exploring LLMs as world simulators for reward construction
 
 - **Embodied Intelligence Reward Construction** - Comprehensive approaches to reward design in embodied AI systems
 
@@ -121,7 +130,7 @@ Using world models and real-world interactions for reward construction.
 - **VL-RewardBench** - Vision-language reward model benchmarking
 
 ### Learning Capability Assessment  
-- **EvaLearn: Quantifying the Learning Capability and Efficiency of LLMs via Sequential Problem Solving** - Evaluating learning capabilities through sequential problem solving rather than independent test cases
+- **[EvaLearn: Quantifying the Learning Capability and Efficiency of LLMs via Sequential Problem Solving](https://arxiv.org/abs/2506.02672)** - Evaluating learning capabilities through sequential problem solving rather than independent test cases
 
 ## Comparison of Reward Construction Approaches
 
