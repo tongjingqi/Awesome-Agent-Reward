@@ -54,10 +54,7 @@ Scaling task quantities through constructing verifiable task gyms, enhancing mod
 - **[SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119)** - Using chess games' natural verifiable environments for self-play with win/loss rewards to enhance general reasoning
 
 ### Text-Based Puzzle Solving
-- **InterThinker** - Advanced reasoning through structured thinking processes
-
-### Text-Based Puzzle Solving
-- **InterThinker** - Advanced reasoning through structured thinking processes
+- **[InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling](https://arxiv.org/pdf/2508.08636)** - Advanced reasoning through structured thinking processes
 
 - **[SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond](https://arxiv.org/abs/2505.19641)** - Systematic approach to generating logical reasoning data
 
@@ -71,15 +68,9 @@ Transforming next token prediction and pre-training tasks into RL-compatible for
 
 - **[Learning to Reason for Long-Form Story Generation](https://arxiv.org/abs/2503.22828)** - Constructing next chapter prediction tasks for story generation, using subsequent chapters as ground truth for reward construction
 
-- **RLPR: Extrapolating RLVR to General Domains without Verifiers** - Extending reinforcement learning from verifiable reasoning to general domains
+- **[RLPR: Extrapolating RLVR to General Domains without Verifiers](https://arxiv.org/abs/2506.18254)** - Extending reinforcement learning from verifiable reasoning to general domains
 
-- **Reinforcing General Reasoning without Verifiers** - General reasoning enhancement without explicit verification mechanisms
-
-## Reward Model Construction
-
-- **RLPR: Extrapolating RLVR to General Domains without Verifiers** - Extending reinforcement learning from verifiable reasoning to general domains
-
-- **Reinforcing General Reasoning without Verifiers** - General reasoning enhancement without explicit verification mechanisms
+- **[Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493)** - General reasoning enhancement without explicit verification mechanisms
 
 ## Reward Model Construction
 
@@ -89,12 +80,12 @@ Training reward models from preference data to enable policy learning on general
 - **[WorldPM: Scaling Human Preference Modeling](https://arxiv.org/abs/2505.10527)** - Exploring scalability of preference modeling using 15M human forum data, showing clear scaling laws in objective tasks like mathematics
 
 ### Multi-Modal & Specialized Reward Models  
-- **WavReward: Spoken Dialogue Models With Generalist Reward Evaluators** - Reward evaluation for spoken dialogue systems
+- **[WavReward: Spoken Dialogue Models With Generalist Reward Evaluators](https://arxiv.org/abs/2505.09558)** - Reward evaluation for spoken dialogue systems
 
 - **VLM-based Reward Construction for Embodied Intelligence** - Using Vision-Language Models to construct rewards for embodied AI tasks
 
 ### Process Supervision
-- **Process Reward Modeling** - Supervising intermediate reasoning steps rather than just final outcomes
+- **[Process Reward Modeling](https://arxiv.org/abs/2501.07301)** - Supervising intermediate reasoning steps rather than just final outcomes
 
 ## Real-World Task Reward Construction
 
@@ -108,9 +99,9 @@ Finding reward signals from model internals without external supervision.
 
 - **[Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)** - Models serving dual roles as problem proposers and solvers, using compiler verification for self-improvement without external data
 
-- **Enhancing Reasoning Ability through RL without Labels** - Completely unsupervised methods for reasoning enhancement
+- **[Enhancing Reasoning Ability through RL without Labels](https://arxiv.org/abs/2505.21493)** - Completely unsupervised methods for reasoning enhancement
 
-- **The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models** - Understanding how entropy affects reinforcement learning in reasoning models
+- **[The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/abs/2505.22617)** - Understanding how entropy affects reinforcement learning in reasoning models
 
 ## World Model & Real-World Reward Construction
 
@@ -123,9 +114,9 @@ Using world models and real-world interactions for reward construction.
 ## Evaluation and Benchmarks
 
 ### Reward Model Evaluation
-- **RewardBench** - Comprehensive benchmark for reward model evaluation
+- **[RewardBench](https://arxiv.org/abs/2403.13787)** - Comprehensive benchmark for reward model evaluation
 
-- **VL-RewardBench** - Vision-language reward model benchmarking
+- **[VL-RewardBench](https://arxiv.org/abs/2411.17451)** - Vision-language reward model benchmarking
 
 ### Learning Capability Assessment  
 - **[EvaLearn: Quantifying the Learning Capability and Efficiency of LLMs via Sequential Problem Solving](https://arxiv.org/abs/2506.02672)** - Evaluating learning capabilities through sequential problem solving rather than independent test cases
