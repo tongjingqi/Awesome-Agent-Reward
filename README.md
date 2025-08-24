@@ -137,7 +137,7 @@ Finding reward signals from model internals without external supervision.
 
 Training reward models from preference data to enable policy learning on general tasks.
 ### Generative Reward Model
-- [2504][Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/abs/2504.02495)
+- [2504] [Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/abs/2504.02495)
   
 - [2410] [Generative Reward Models](https://arxiv.org/pdf/2410.12832)
 
@@ -153,7 +153,7 @@ Training reward models from preference data to enable policy learning on general
 
 ### Process Supervision
 - [2501] [Process Reward Modeling](https://arxiv.org/abs/2501.07301) - Supervising intermediate reasoning steps rather than just final outcomes
-- [2312][Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935)
+- [2312] [Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935)
 ## Evaluation and Benchmarks
 
 ### Reward Model Evaluation
@@ -192,6 +192,8 @@ Training reward models from preference data to enable policy learning on general
 - [2403] [WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?](https://arxiv.org/abs/2403.07718)
   
 - [2506] [AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents](https://arxiv.org/abs/2506.14205)
+
+- [2504] [BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516)
   
 
 ### Learning Capability Assessment  
