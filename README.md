@@ -164,6 +164,23 @@ Training reward models from preference data to enable policy learning on general
 
 - [2412] [PROCESSBENCH](https://arxiv.org/pdf/2412.06559)
 
+### Games
+
+- [2406] [GameBench: Evaluating strategic reasoning abilities of llm agents](https://arxiv.org/abs/2406.06613)
+  
+- [2402] [GTBench: Uncovering the strategic reasoning limitations of llms via game-theoretic evaluations](https://arxiv.org/abs/2402.12348)
+  
+- [2412] [GameArena: Evaluating LLM Reasoning through Live Computer Games](https://arxiv.org/abs/2412.06394)
+  
+- [2403] [How Far Are We on the Decision-Making of LLMs? Evaluating LLMs’ Gaming Ability in Multi-Agent Environments](https://arxiv.org/abs/2403.11807)
+  
+- [2411] [Balrog: Benchmarking agentic llm and vlm reasoning on games](https://arxiv.org/abs/2411.13543)
+  
+- [2503] [DSGBench: A diverse strategic game benchmark for evaluating llm-based agents in complex decision-making environments](https://arxiv.org/abs/2503.06047)
+  
+- [2410] [ING-VP: Mllms cannot play easy vision-based games yet](https://arxiv.org/abs/2410.06555)
+  
+
 ### Learning Capability Assessment  
 - [2506] [EvaLearn: Quantifying the Learning Capability and Efficiency of LLMs via Sequential Problem Solving](https://arxiv.org/abs/2506.02672) - Evaluating learning capabilities through sequential problem solving rather than independent test cases
 
