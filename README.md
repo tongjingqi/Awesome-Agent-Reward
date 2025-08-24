@@ -70,6 +70,14 @@ Transforming next token prediction and pre-training tasks into RL-compatible for
 
 - [2505] [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493) - General reasoning enhancement without explicit verification mechanisms
 
+### Sparse Reward
+
+- [2101] [Asymmetric self-play for automatic goal discovery in robotic manipulation](https://arxiv.org/pdf/2101.04882)
+
+- [2402] [Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/pdf/2402.05808)
+
+- [2405] [Reverse Forward Curriculum Learning for Extreme Sample and Demonstration Efficiency in Reinforcement Learning](https://arxiv.org/pdf/2405.03379)
+
 ## Real-World Task Reward Construction
 
 Directly targeting real-world applications with practical reward construction.
