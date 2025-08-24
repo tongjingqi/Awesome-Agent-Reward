@@ -116,8 +116,8 @@ Design reward function and synthesis data to scale up the quantities of the real
 ### World Model 
 Towards future: Using world models and real-world interactions for reward construction.
 - [2406] [Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485) - Exploring LLMs as world simulators for reward construction
-- [2508][Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
-- [2508][Matrix-Game 2.0: An Open-Source, Real-Time, andStreaming Interactive World Model](https://arxiv.org/pdf/2508.13009)
+- [2508] [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
+- [2508] [Matrix-Game 2.0: An Open-Source, Real-Time, andStreaming Interactive World Model](https://arxiv.org/pdf/2508.13009)
 ## Unsupervised Reward Construction
 
 Finding reward signals from model internals without external supervision.
@@ -149,9 +149,12 @@ Training reward models from preference data to enable policy learning on general
   
 - [2507] [POLAR：Pre-Trained Policy Discriminators are General Reward Models](https://arxiv.org/pdf/2507.05197)
   
-### Multi-Modal & Specialized Reward Models  
+### Multi-Modal Reward Models  
 - [2505] [WavReward: Spoken Dialogue Models With Generalist Reward Evaluators](https://arxiv.org/abs/2505.09558) - Reward evaluation for spoken dialogue systems
-
+- [2312][Vision-Language Models as a Source of Rewards](https://arxiv.org/abs/2312.09187)
+- [2402][Code as Reward: Empowering Reinforcement Learning with VLMs](https://arxiv.org/abs/2402.04764)
+- [2402][RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback](https://arxiv.org/abs/2402.03681)
+  
 ### Process Supervision
 - [2501] [Process Reward Modeling](https://arxiv.org/abs/2501.07301) - Supervising intermediate reasoning steps rather than just final outcomes
 - [2312] [Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935)
