@@ -70,7 +70,7 @@ Transforming next token prediction and pre-training tasks into RL-compatible for
 
 ### Sparse Reward
 
-Scaling difficuty of task through curriculum construction, converting sparse reward to dense reward.
+Scaling difficuity of task through curriculum construction, converting sparse reward to dense reward.
 - [2507] [Blending Supervised and Reinforcement Fine-Tuning with Prefix Sampling](https://arxiv.org/abs/2507.01679)
 
 - [2505] [UFT: Unifying Supervised and Reinforcement Fine-Tuning](https://arxiv.org/pdf/2505.16984)
