@@ -151,9 +151,9 @@ Training reward models from preference data to enable policy learning on general
   
 ### Multi-Modal Reward Models  
 - [2505] [WavReward: Spoken Dialogue Models With Generalist Reward Evaluators](https://arxiv.org/abs/2505.09558) - Reward evaluation for spoken dialogue systems
-- [2312][Vision-Language Models as a Source of Rewards](https://arxiv.org/abs/2312.09187)
-- [2402][Code as Reward: Empowering Reinforcement Learning with VLMs](https://arxiv.org/abs/2402.04764)
-- [2402][RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback](https://arxiv.org/abs/2402.03681)
+- [2312] [Vision-Language Models as a Source of Rewards](https://arxiv.org/abs/2312.09187)
+- [2402] [Code as Reward: Empowering Reinforcement Learning with VLMs](https://arxiv.org/abs/2402.04764)
+- [2402] [RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback](https://arxiv.org/abs/2402.03681)
   
 ### Process Supervision
 - [2501] [Process Reward Modeling](https://arxiv.org/abs/2501.07301) - Supervising intermediate reasoning steps rather than just final outcomes
