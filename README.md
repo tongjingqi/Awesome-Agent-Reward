@@ -79,7 +79,7 @@ Transforming next token prediction and pre-training tasks into RL-compatible for
 
 ## Real-World Task Reward Construction
 
-Directly targeting real-world applications with practical reward construction.
+Design reward function for Real-World Tasks. Synthesizing data to Scale up the number of the real-world reward.
 
 ### Web Search
 - [2505] [WebDancer: Towards Autonomous Information Seeking Agency](https://arxiv.org/abs/2505.22648) - Synthesizing agent action trajectories for search tasks, constructing verifiable QA pairs for RL training on information seeking
