@@ -128,12 +128,20 @@ Finding reward signals from model internals without external supervision.
 
 - [2505] [Can Large Reasoning Models Self-Train](https://arxiv.org/abs/2505.20282)
 
+- [2505] [Maximizing Confidence Alone Improves Reasoning](https://arxiv.org/abs/2505.22660)
+
+- [2505] [VeriFree: Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493)
+
 ## Reward Model Construction
 
 Training reward models from preference data to enable policy learning on general tasks.
 ### Generative Reward Model
 - [2504][Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/abs/2504.02495)
   
+- [2410] [Generative Reward Models](https://arxiv.org/pdf/2410.12832)
+
+- [2408] [Generative Verifiers: Reward Modeling as Next-Token Prediction](https://arxiv.org/pdf/2408.15240)
+
 ### Reward Model Pretrain
 - [2505] [WorldPM: Scaling Human Preference Modeling](https://arxiv.org/abs/2505.10527) - Exploring scalability of preference modeling using 15M human forum data, showing clear scaling laws in objective tasks like mathematics
   
@@ -151,6 +159,10 @@ Training reward models from preference data to enable policy learning on general
 - [2403] [RewardBench](https://arxiv.org/abs/2403.13787) - Comprehensive benchmark for reward model evaluation
 
 - [2411] [VL-RewardBench](https://arxiv.org/abs/2411.17451) - Vision-language reward model benchmarking
+
+- [2501] [PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models](https://arxiv.org/pdf/2501.03124)
+
+- [2412] [PROCESSBENCH](https://arxiv.org/pdf/2412.06559)
 
 ### Learning Capability Assessment  
 - [2506] [EvaLearn: Quantifying the Learning Capability and Efficiency of LLMs via Sequential Problem Solving](https://arxiv.org/abs/2506.02672) - Evaluating learning capabilities through sequential problem solving rather than independent test cases
