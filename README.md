@@ -203,9 +203,9 @@ Training reward models from preference data to enable policy learning on general
 
 ## Limitation and Future Work
 
-- Game data isn't utilized thoroughly
-- Using World Model to construct rewards
-- Evaluating interactable environments
+- Game data isn't utilized thoroughly. Games are shown effective to enhance model's general abilities, but open-source models rarely include games as training data.
+- Using World Model to construct rewards. World models are capable of generating an endless variety of action-controllable, playable 3D environments for training and evaluating embodied agents.
+- Evaluating interactable environments. A method to evaluate interactable environments, find high quality ones and choose environments fitting policy model's ability level would boost training a lot.
 
 
 ## Contributing
