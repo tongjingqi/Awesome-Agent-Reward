@@ -139,6 +139,13 @@ Finding reward signals from model internals without external supervision.
 
 - [2505] [VeriFree: Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493)
 
+- [2504] [TTRL: Test-Time Reinforcement Learning](https://arxiv.org/abs/2504.16084)
+
+- [2506] [Spurious Rewards: Rethinking Training Signals in RLVR](https://arxiv.org/abs/2506.10947)
+  
+- [2504] [Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization](https://arxiv.org/abs/2504.05812)
+
+- [2505] [Learning to Reason without External Rewards](https://arxiv.org/abs/2505.19590)
 ## Reward Model Construction
 
 Training reward models from preference data to enable policy learning on general tasks.
