@@ -122,7 +122,7 @@ Finding reward signals from model internals without external supervision.
 
 Training reward models from preference data to enable policy learning on general tasks.
 ### Generative Reward Model
-- Inference-Time Scaling for Generalist Reward Modeling
+- [2504][Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/abs/2504.02495)
 ### Reward Model Pretrain
 - [2505] [WorldPM: Scaling Human Preference Modeling](https://arxiv.org/abs/2505.10527) - Exploring scalability of preference modeling using 15M human forum data, showing clear scaling laws in objective tasks like mathematics
 
