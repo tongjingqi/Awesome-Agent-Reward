@@ -23,12 +23,12 @@ Reward construction is the process of designing and collecting reward signals th
 
 **Background: The Second Half & Era of Experience**
 
-**The Second Half**: Transitioning from creating new methods and models to defining new tasks
+**[The Second Half](https://ysymyth.github.io/The-Second-Half/)**: Transitioning from creating new methods and models to defining new tasks
 - **First Half Focus**: Exam-like tasks with universal methods (next token prediction, RL) and architectures (Transformer, GPT)
 - **Turning Point**: Organic combination of universal methods and architectures, where RL on large models achieves generalization
 - **Second Half Focus**: Project-based scenarios with multi-turn interactions and temporal learning
 
-**Era of Experience**: Large Models + Reinforcement Learning = General Superhuman Agents
+**[Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)**: Large Models + Reinforcement Learning = General Superhuman Agents
 - **Previous Era**: Human Data Era with limitations of human-generated data and capabilities
 - **Current Opportunity**: Combining self-discovery capabilities with task generality from the human data era
 - **Key Components**: Environmental rewards, autonomous interaction, continuous experience streams, non-human planning and reasoning
