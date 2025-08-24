@@ -7,11 +7,9 @@ A curated list of awesome resources for reward construction in AI agents. This r
 - [Introduction](#introduction)
 - [The Second Half & Era of Experience](#The-Second-Half-&Era-of-Experience)
 - [Verifiable Task Construction](#verifiable-task-construction)
-- [Converting Open-Domain Tasks to Verifiable Tasks](#converting-open-domain-tasks-to-verifiable-tasks)
 - [Reward Model Construction](#reward-model-construction)
 - [Real-World Task Reward Construction](#real-world-task-reward-construction)
 - [Unsupervised Reward Construction](#unsupervised-reward-construction)
-- [World Model & Real-World Reward Construction](#world-model--real-world-reward-construction)
 - [Evaluation and Benchmarks](#evaluation-and-benchmarks)
 - [Contributing](#contributing)
 
