@@ -79,7 +79,7 @@ Transforming next token prediction and pre-training tasks into RL-compatible for
 
 ## Real-World Task Reward Construction
 
-Design reward function for Real-World Tasks. Synthesizing data to scale up the quantities of the real-world reward. We divided Real-World Task Reward Construction research into 4 types, including **Web Search**, **GUI**, **VLA** and **World Model**.
+Design reward function and synthesis data to scale up the quantities of the real-world reward. We divided Real-World Task Reward Construction research into 4 types, including **Web Search**, **GUI**, **VLA** and **World Model**.
 
 ### Web Search
 - [2505] [WebDancer: Towards Autonomous Information Seeking Agency](https://arxiv.org/abs/2505.22648) - Synthesizing agent action trajectories for search tasks, constructing verifiable QA pairs for RL training on information seeking
@@ -104,7 +104,7 @@ Design reward function for Real-World Tasks. Synthesizing data to scale up the q
 
 - [2504] [GUI-R1: A Generalist R1-Style Vision-Language Action Model For GUI Agents](https://arxiv.org/pdf/2504.10458)
 
-### VLA Reward Construction
+### VLA
 - [2505] [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/abs/2505.18719) -  Reward design in embodied AI systems
 
 ### World Model 
