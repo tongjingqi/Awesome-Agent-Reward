@@ -38,7 +38,7 @@ We divided Reward Construction research into 5 categories, including **Verifiabl
 
 ## Verifiable Task Construction
 
-Scaling task quantities through constructing new verifiable task gyms, such as puzzles, games. It can enhancing model general capabilities. We divided Reward Construction research to 4 types, including **Multi-Modal Reasoning**, **Text-Based Puzzle Solving**, **Zero-Sum Games** and **Converting Open-Domain Tasks to Verifiable Tasks**.
+Scaling task quantities through constructing new verifiable task gyms, such as puzzles, games. It can enhancing model general capabilities. We divided Reward Construction research to 4 types, including **Multi-Modal Reasoning**, **Text-Based Puzzle Solving**, **Zero-Sum Games**, **Converting Open-Domain Tasks to Verifiable Tasks** and **Curriculum Construction**.
 
 ### Multi-Modal Reasoning
 - [2505] [Code2Logic: Game-Code-Driven Data Synthesis for Enhancing VLMs General Reasoning](https://arxiv.org/abs/2505.13886) - Using game code to synthesize verifiable multi-modal reasoning data for improving VLM general reasoning through RL
@@ -68,9 +68,9 @@ Transforming next token prediction and pre-training tasks into RL-compatible for
 
 - [2505] [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493) - General reasoning enhancement without explicit verification mechanisms
 
-### Sparse Reward
+### Curriculum Construction
 
-Scaling difficuity of task through curriculum construction, converting sparse reward to dense reward.
+Scaling difficuity of task through curriculum learning, converting sparse reward to dense reward.
 - [2507] [Blending Supervised and Reinforcement Fine-Tuning with Prefix Sampling](https://arxiv.org/abs/2507.01679)
 
 - [2505] [UFT: Unifying Supervised and Reinforcement Fine-Tuning](https://arxiv.org/pdf/2505.16984)
