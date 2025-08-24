@@ -116,6 +116,7 @@ Design reward function and synthesis data to scale up the quantities of the real
 Towards future: Using world models and real-world interactions for reward construction.
 - [2406] [Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485) - Exploring LLMs as world simulators for reward construction
 - [2508][Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
+- [2508][Matrix-Game 2.0: An Open-Source, Real-Time, andStreaming Interactive World Model](https://arxiv.org/pdf/2508.13009)
 ## Unsupervised Reward Construction
 
 Finding reward signals from model internals without external supervision.
