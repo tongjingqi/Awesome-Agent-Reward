@@ -131,7 +131,7 @@ Training reward models from preference data to enable policy learning on general
 
 ### Process Supervision
 - [2501] [Process Reward Modeling](https://arxiv.org/abs/2501.07301) - Supervising intermediate reasoning steps rather than just final outcomes
-- Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations
+- [2312][Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935)
 ## Evaluation and Benchmarks
 
 ### Reward Model Evaluation
