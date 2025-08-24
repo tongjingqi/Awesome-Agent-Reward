@@ -116,16 +116,6 @@ Training reward models from preference data to enable policy learning on general
 ### Learning Capability Assessment  
 - [2506] [EvaLearn: Quantifying the Learning Capability and Efficiency of LLMs via Sequential Problem Solving](https://arxiv.org/abs/2506.02672) - Evaluating learning capabilities through sequential problem solving rather than independent test cases
 
-## Comparison of Reward Construction Approaches
-
-| Approach | Generality & Transfer | Task Type | Implementation Difficulty |
-|----------|----------------------|-----------|--------------------------|
-| **Verifiable Task Construction** | Moderate - Puzzle/game solving as AGI prerequisite | Toy tasks with indirect real-world transfer | Medium - Requires manual task scaling |
-| **Open-Domain → Verifiable** | High generality, transfer depends on task type | Medium toy level - Models general tasks | Low manual effort - Natural data sources with built-in rewards |
-| **Reward Model Based** | Strong neural network generality but hackable | Real tasks | Depends on data collection difficulty |
-| **Real-World Task** | Depends on task coverage | Direct real-world applications | Moderate - Automated but needs diversity consideration |
-| **Unsupervised Internal** | Relatively strong | Both toy and real tasks | Low human effort - Potential for superhuman emergence |
-| **World Model & Real-World** | Strong - Depends on world model generality | Varies from toy to real | Higher difficulty for more general approaches |
 
 ## Contributing
 
