@@ -87,6 +87,15 @@ Directly targeting real-world applications with practical reward construction.
   
 - [2504] [WebThinker: Empowering Large Reasoning Models with Deep Research Capability](https://arxiv.org/pdf/2504.21776)
 
+### GUI
+
+- [2506] [AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning](https://arxiv.org/pdf/2506.01391)
+
+- [2505] [ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay](https://arxiv.org/pdf/2505.16282)
+
+- [2505] [GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents](https://arxiv.org/pdf/2505.15810)
+
+- [2504] [GUI-R1: A Generalist R1-Style Vision-Language Action Model For GUI Agents](https://arxiv.org/pdf/2504.10458)
 
 ### VLA Reward Construction
 - [2505] [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/abs/2505.18719) -  Reward design in embodied AI systems
