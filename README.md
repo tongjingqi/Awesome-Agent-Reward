@@ -33,8 +33,8 @@ Reward construction is the process of designing and collecting reward signals th
 - **Current Opportunity**: Combining self-discovery capabilities with task generality from the human data era
 - **Key Components**: Environmental rewards, autonomous interaction, continuous experience streams, non-human planning and reasoning
 
-In conclusion, reward construction provides interactive environments and learning signals. It becomes crucial for AI agent to get experience for new project. 
-We divided Reward Construction research to 5 categories, includes Verifiable Task Construction, Real-World Task Reward Construction, Unsupervised Reward Construction, Reward Model Construction, Evaluation and Benchmarks.
+In conclusion, reward construction provides **interactive environments** and **learning signals**. It becomes crucial for AI agent to **get experience for new project**. 
+We divided Reward Construction research into 5 categories, including **Verifiable Task Construction**, **Real-World Task Reward Construction**, **Unsupervised Reward Construction**, **Reward Model Construction** and **Evaluation and Benchmarks**.
 
 ## Verifiable Task Construction
 
