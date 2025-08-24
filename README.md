@@ -125,7 +125,9 @@ Towards future: Using world models and real-world interactions for reward constr
 - [2508] [Matrix-Game 2.0: An Open-Source, Real-Time, andStreaming Interactive World Model](https://arxiv.org/pdf/2508.13009)
 ## Unsupervised Reward Construction
 
-Finding reward signals from model internals without external supervision.
+Finding reward signals from model internals without external supervision. We divided Unsupervised Reward Construction into 2 types, including Proposer and Solver and the discussion of can Large Reasoning Models Self-Train.
+
+### Proposer and Solver 
 
 - [2505] [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335) - Models serving dual roles as problem proposers and solvers, using compiler verification for self-improvement without external data
 
@@ -133,15 +135,19 @@ Finding reward signals from model internals without external supervision.
 
 - [2508] [Self-Questioning Language Models](https://arxiv.org/pdf/2508.03682)
 
-- [2505] [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/abs/2505.22617) - Understanding how entropy affects reinforcement learning in reasoning models
+### Can Large Reasoning Models Self-Train?
 
-- [2506] [Spurious Rewards: Rethinking Training Signals in RLVR](https://arxiv.org/abs/2506.10947)
+Discussion of can Large Reasoning Models Self-Train.
+
+- [2505] [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/abs/2505.22617) - Understanding how entropy affects reinforcement learning in reasoning models, it indicated that the improvement of self-train may cause by the entropy mechanism.
+
+- [2506] [Spurious Rewards: Rethinking Training Signals in RLVR](https://arxiv.org/abs/2506.10947) - Can random reward improve model performance?
+
+- [2505] [Can Large Reasoning Models Self-Train](https://arxiv.org/abs/2505.20282)
 
 - [2504] [TTRL: Test-Time Reinforcement Learning](https://arxiv.org/abs/2504.16084)
 
 - [2505] [Enhancing Reasoning Ability through RL without Labels](https://arxiv.org/abs/2505.21493) - Completely unsupervised methods for reasoning enhancement
-
-- [2505] [Can Large Reasoning Models Self-Train](https://arxiv.org/abs/2505.20282)
 
 - [2505] [Maximizing Confidence Alone Improves Reasoning](https://arxiv.org/abs/2505.22660)
 
@@ -150,6 +156,7 @@ Finding reward signals from model internals without external supervision.
 - [2504] [Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization](https://arxiv.org/abs/2504.05812)
 
 - [2505] [Learning to Reason without External Rewards](https://arxiv.org/abs/2505.19590)
+  
 ## Reward Model Construction
 
 Training reward models from preference data to enable policy learning on general tasks.
