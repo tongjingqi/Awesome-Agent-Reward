@@ -129,11 +129,17 @@ Finding reward signals from model internals without external supervision.
 
 - [2505] [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335) - Models serving dual roles as problem proposers and solvers, using compiler verification for self-improvement without external data
 
-- [2508][Self-Questioning Language Models](https://arxiv.org/pdf/2508.03682)
+- [2508] [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
 
-- [2505] [Enhancing Reasoning Ability through RL without Labels](https://arxiv.org/abs/2505.21493) - Completely unsupervised methods for reasoning enhancement
+- [2508] [Self-Questioning Language Models](https://arxiv.org/pdf/2508.03682)
 
 - [2505] [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/abs/2505.22617) - Understanding how entropy affects reinforcement learning in reasoning models
+
+- [2506] [Spurious Rewards: Rethinking Training Signals in RLVR](https://arxiv.org/abs/2506.10947)
+
+- [2504] [TTRL: Test-Time Reinforcement Learning](https://arxiv.org/abs/2504.16084)
+
+- [2505] [Enhancing Reasoning Ability through RL without Labels](https://arxiv.org/abs/2505.21493) - Completely unsupervised methods for reasoning enhancement
 
 - [2505] [Can Large Reasoning Models Self-Train](https://arxiv.org/abs/2505.20282)
 
@@ -141,10 +147,6 @@ Finding reward signals from model internals without external supervision.
 
 - [2505] [VeriFree: Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493)
 
-- [2504] [TTRL: Test-Time Reinforcement Learning](https://arxiv.org/abs/2504.16084)
-
-- [2506] [Spurious Rewards: Rethinking Training Signals in RLVR](https://arxiv.org/abs/2506.10947)
-  
 - [2504] [Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization](https://arxiv.org/abs/2504.05812)
 
 - [2505] [Learning to Reason without External Rewards](https://arxiv.org/abs/2505.19590)
