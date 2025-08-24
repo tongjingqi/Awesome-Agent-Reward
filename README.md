@@ -45,7 +45,6 @@ Scaling task quantities through constructing new verifiable task gyms, such as p
 
 - [2506] [Play to Generalize: Learning to Reason Through Game Play](https://arxiv.org/abs/2506.08011) - Training expert models on Snake game to provide ground truth for multi-modal reasoning rewards, improving general reasoning capabilities through RL
 
-- [2505] [G1: BOOTSTRAPPING PERCEPTION AND REASONING ABILITIES OF VISION-LANGUAGE MODEL VIA REINFORCEMENT LEARNING](2505.13426)
 
 ### Text-Based Puzzle Solving
 - [2508] [InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling](https://arxiv.org/pdf/2508.08636) - Advanced reasoning through structured thinking processes
@@ -70,8 +69,6 @@ Transforming next token prediction and pre-training tasks into RL-compatible for
 - [2505] [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493) - General reasoning enhancement without explicit verification mechanisms
 
 ### Sparse Reward
-
-- [2101] [Asymmetric self-play for automatic goal discovery in robotic manipulation](https://arxiv.org/pdf/2101.04882)
 
 - [2402] [Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/pdf/2402.05808)
 
