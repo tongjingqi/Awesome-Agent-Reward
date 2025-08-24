@@ -50,9 +50,6 @@ Scaling task quantities through constructing verifiable task gyms, enhancing mod
 
 - [2506] [Play to Generalize: Learning to Reason Through Game Play](https://arxiv.org/abs/2506.08011) - Training expert models on Snake game to provide ground truth for multi-modal reasoning rewards, improving general reasoning capabilities through RL
 
-### Zero-Sum Games & Strategic Reasoning  
-- [2506] [SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119) - Using chess games' natural verifiable environments for self-play with win/loss rewards to enhance general reasoning
-
 ### Text-Based Puzzle Solving
 - [2508] [InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling](https://arxiv.org/pdf/2508.08636) - Advanced reasoning through structured thinking processes
 
@@ -60,7 +57,10 @@ Scaling task quantities through constructing verifiable task gyms, enhancing mod
 
 - [2505] [Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles](https://arxiv.org/abs/2505.19914) - Creating synthetic puzzles to enhance logical reasoning capabilities
 
-## Converting Open-Domain Tasks to Verifiable Tasks
+### Zero-Sum Games & Strategic Reasoning  
+- [2506] [SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119) - Using chess games' natural verifiable environments for self-play with win/loss rewards to enhance general reasoning
+  
+### Converting Open-Domain Tasks to Verifiable Tasks
 
 Transforming next token prediction and pre-training tasks into RL-compatible formats.
 
@@ -91,6 +91,13 @@ Directly targeting real-world applications with practical reward construction.
 
 - [2505] [WebDancer: Towards Autonomous Information Seeking Agency](https://arxiv.org/abs/2505.22648) - Synthesizing agent action trajectories for search tasks, constructing verifiable QA pairs for RL training on information seeking
 
+### VLA Reward Construction
+- [2505] [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/abs/2505.18719) -  Reward design in embodied AI systems
+
+### World Model 
+Towards future: Using world models and real-world interactions for reward construction.
+- [2406] [Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485) - Exploring LLMs as world simulators for reward construction
+
 ## Unsupervised Reward Construction
 
 Finding reward signals from model internals without external supervision.
@@ -101,13 +108,6 @@ Finding reward signals from model internals without external supervision.
 
 - [2505] [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/abs/2505.22617) - Understanding how entropy affects reinforcement learning in reasoning models
 
-## World Model & Real-World Reward Construction
-
-Using world models and real-world interactions for reward construction.
-
-- [2406] [Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485) - Exploring LLMs as world simulators for reward construction
-
-- [2505] [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/abs/2505.18719) -  Reward design in embodied AI systems
 
 ## Evaluation and Benchmarks
 
