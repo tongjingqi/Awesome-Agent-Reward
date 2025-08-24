@@ -7,9 +7,9 @@ A curated list of awesome resources for reward construction in AI agents. This r
 - [Introduction](#introduction)
 - [The Second Half & Era of Experience](#The-Second-Half-&Era-of-Experience)
 - [Verifiable Task Construction](#verifiable-task-construction)
-- [Reward Model Construction](#reward-model-construction)
 - [Real-World Task Reward Construction](#real-world-task-reward-construction)
 - [Unsupervised Reward Construction](#unsupervised-reward-construction)
+- [Reward Model Construction](#reward-model-construction)
 - [Evaluation and Benchmarks](#evaluation-and-benchmarks)
 - [Contributing](#contributing)
 
@@ -70,19 +70,6 @@ Transforming next token prediction and pre-training tasks into RL-compatible for
 
 - [2505] [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493) - General reasoning enhancement without explicit verification mechanisms
 
-## Reward Model Construction
-
-Training reward models from preference data to enable policy learning on general tasks.
-
-### Preference Modeling & Scaling
-- [2505] [WorldPM: Scaling Human Preference Modeling](https://arxiv.org/abs/2505.10527) - Exploring scalability of preference modeling using 15M human forum data, showing clear scaling laws in objective tasks like mathematics
-
-### Multi-Modal & Specialized Reward Models  
-- [2505] [WavReward: Spoken Dialogue Models With Generalist Reward Evaluators](https://arxiv.org/abs/2505.09558) - Reward evaluation for spoken dialogue systems
-
-### Process Supervision
-- [2501] [Process Reward Modeling](https://arxiv.org/abs/2501.07301) - Supervising intermediate reasoning steps rather than just final outcomes
-
 ## Real-World Task Reward Construction
 
 Directly targeting real-world applications with practical reward construction.
@@ -106,6 +93,18 @@ Finding reward signals from model internals without external supervision.
 
 - [2505] [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/abs/2505.22617) - Understanding how entropy affects reinforcement learning in reasoning models
 
+## Reward Model Construction
+
+Training reward models from preference data to enable policy learning on general tasks.
+
+### Preference Modeling & Scaling
+- [2505] [WorldPM: Scaling Human Preference Modeling](https://arxiv.org/abs/2505.10527) - Exploring scalability of preference modeling using 15M human forum data, showing clear scaling laws in objective tasks like mathematics
+
+### Multi-Modal & Specialized Reward Models  
+- [2505] [WavReward: Spoken Dialogue Models With Generalist Reward Evaluators](https://arxiv.org/abs/2505.09558) - Reward evaluation for spoken dialogue systems
+
+### Process Supervision
+- [2501] [Process Reward Modeling](https://arxiv.org/abs/2501.07301) - Supervising intermediate reasoning steps rather than just final outcomes
 
 ## Evaluation and Benchmarks
 
