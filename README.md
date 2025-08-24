@@ -45,6 +45,8 @@ Scaling task quantities through constructing new verifiable task gyms, such as p
 
 - [2506] [Play to Generalize: Learning to Reason Through Game Play](https://arxiv.org/abs/2506.08011) - Training expert models on Snake game to provide ground truth for multi-modal reasoning rewards, improving general reasoning capabilities through RL
 
+- [2505] [G1: BOOTSTRAPPING PERCEPTION AND REASONING ABILITIES OF VISION-LANGUAGE MODEL VIA REINFORCEMENT LEARNING](2505.13426)
+
 ### Text-Based Puzzle Solving
 - [2508] [InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling](https://arxiv.org/pdf/2508.08636) - Advanced reasoning through structured thinking processes
 
