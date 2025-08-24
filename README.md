@@ -201,6 +201,12 @@ Training reward models from preference data to enable policy learning on general
 ### Learning Capability Assessment  
 - [2506] [EvaLearn: Quantifying the Learning Capability and Efficiency of LLMs via Sequential Problem Solving](https://arxiv.org/abs/2506.02672) - Evaluating learning capabilities through sequential problem solving rather than independent test cases
 
+## Limitation and Future Work
+
+- Game data isn't utilized thoroughly
+- Using World Model to construct rewards
+- Evaluating interactable environments
+
 
 ## Contributing
 
