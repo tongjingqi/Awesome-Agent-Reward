@@ -152,7 +152,7 @@ If you find this repository useful, please consider citing:
 ```bibtex
 @misc{awesome-agent-reward,
   title={Awesome Agent Reward: Reward Construction for AI Agents},
-  author={[Jingqi Tong, Yurong Mou, Hangcheng li, Jun zhao]},
+  author={[Jingqi Tong, Yurong Mou, Hangcheng Li, Jun Zhao]},
   year={2025},
   url={https://github.com/tongjingqi/Awesome-Agent-Reward}
 }
