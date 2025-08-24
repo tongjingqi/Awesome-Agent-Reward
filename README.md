@@ -5,7 +5,6 @@ A curated list of awesome resources for reward construction in AI agents. This r
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [The Second Half & Era of Experience](#The-Second-Half-&Era-of-Experience)
 - [Verifiable Task Construction](#verifiable-task-construction)
 - [Real-World Task Reward Construction](#real-world-task-reward-construction)
 - [Unsupervised Reward Construction](#unsupervised-reward-construction)
@@ -13,21 +12,16 @@ A curated list of awesome resources for reward construction in AI agents. This r
 - [Evaluation and Benchmarks](#evaluation-and-benchmarks)
 - [Contributing](#contributing)
 
+
 ## Introduction
 
 **What is Reward Construction?**
 
-Reward construction is the process of designing and implementing reward signals that guide AI agents toward desired behaviors and outcomes. It bridges the gap between human intentions and machine learning objectives, enabling agents to learn complex behaviors through reinforcement learning.
+Reward construction is the process of designing and collecting reward signals that guide AI agents toward desired behaviors and outcomes. 
 
 **Why is Reward Construction Important?**
 
-As we transition from the "first half" (exam-based evaluation) to the "second half" (project-based interaction) of AI development, reward construction becomes crucial for:
-- Enabling agents to learn from environmental feedback
-- Supporting continuous learning from interaction history  
-- Developing superhuman planning and reasoning capabilities
-- Moving beyond human-derived data limitations
-
-## The Second Half & Era of Experience
+**Background: The Second Half & Era of Experience**
 
 **The Second Half**: Transitioning from creating new methods and models to defining new tasks
 - **First Half Focus**: Exam-like tasks with universal methods (next token prediction, RL) and architectures (Transformer, GPT)
@@ -38,6 +32,8 @@ As we transition from the "first half" (exam-based evaluation) to the "second ha
 - **Previous Era**: Human Data Era with limitations of human-generated data and capabilities
 - **Current Opportunity**: Combining self-discovery capabilities with task generality from the human data era
 - **Key Components**: Environmental rewards, autonomous interaction, continuous experience streams, non-human planning and reasoning
+
+In conclusion, reward construction provide interactive environment and reward signals. It becomes crucial for AI agent to learn new "Project" or get "Experience". 
 
 ## Verifiable Task Construction
 
