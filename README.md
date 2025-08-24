@@ -103,6 +103,14 @@ Design reward function and synthesis data to scale up the quantities of the real
 
 ### VLA
 - [2505] [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/abs/2505.18719) -  Reward design in embodied AI systems
+  
+- [2412] [RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning](https://arxiv.org/pdf/2412.09858)
+
+- [2501] [Improving vision-language-action model with online reinforcement learning](https://arxiv.org/pdf/2501.16664)
+
+- [2505] [What Can RL Bring to VLA Generalization?](https://arxiv.org/pdf/2505.19789)
+
+- [2505] [Interactive Post-Training for Vision-Language-Action Models](https://arxiv.org/pdf/2505.17016)
 
 ### World Model 
 Towards future: Using world models and real-world interactions for reward construction.
@@ -118,14 +126,19 @@ Finding reward signals from model internals without external supervision.
 
 - [2505] [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/abs/2505.22617) - Understanding how entropy affects reinforcement learning in reasoning models
 
+- [2505] [Can Large Reasoning Models Self-Train](https://arxiv.org/abs/2505.20282)
+
 ## Reward Model Construction
 
 Training reward models from preference data to enable policy learning on general tasks.
 ### Generative Reward Model
 - [2504][Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/abs/2504.02495)
+  
 ### Reward Model Pretrain
 - [2505] [WorldPM: Scaling Human Preference Modeling](https://arxiv.org/abs/2505.10527) - Exploring scalability of preference modeling using 15M human forum data, showing clear scaling laws in objective tasks like mathematics
-
+  
+- [2507] [POLAR：Pre-Trained Policy Discriminators are General Reward Models](https://arxiv.org/pdf/2507.05197)
+  
 ### Multi-Modal & Specialized Reward Models  
 - [2505] [WavReward: Spoken Dialogue Models With Generalist Reward Evaluators](https://arxiv.org/abs/2505.09558) - Reward evaluation for spoken dialogue systems
 
