@@ -124,8 +124,9 @@ Finding reward signals from model internals without external supervision.
 ## Reward Model Construction
 
 Training reward models from preference data to enable policy learning on general tasks.
-
-### Preference Modeling & Scaling
+### Generative Reward Model
+- Inference-Time Scaling for Generalist Reward Modeling
+### Reward Model Pretrain
 - [2505] [WorldPM: Scaling Human Preference Modeling](https://arxiv.org/abs/2505.10527) - Exploring scalability of preference modeling using 15M human forum data, showing clear scaling laws in objective tasks like mathematics
 
 ### Multi-Modal & Specialized Reward Models  
@@ -133,7 +134,7 @@ Training reward models from preference data to enable policy learning on general
 
 ### Process Supervision
 - [2501] [Process Reward Modeling](https://arxiv.org/abs/2501.07301) - Supervising intermediate reasoning steps rather than just final outcomes
-
+- Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations
 ## Evaluation and Benchmarks
 
 ### Reward Model Evaluation
