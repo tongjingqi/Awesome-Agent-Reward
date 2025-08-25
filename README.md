@@ -55,7 +55,7 @@ Scaling task quantities through constructing new verifiable task gyms, such as p
 
 ### Zero-Sum Games
 - [2506] [SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119) - Using chess games' natural verifiable environments for self-play with win/loss rewards to enhance general reasoning
-  
+
 ### Converting Open-Domain Tasks to Verifiable Tasks
 
 Transforming next token prediction and pre-training tasks into RL-compatible formats.
@@ -68,7 +68,9 @@ Transforming next token prediction and pre-training tasks into RL-compatible for
 
 - [2505] [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493) - General reasoning enhancement without explicit verification mechanisms
 
-### Curriculum Construction
+- [2507] [KIMI K2: OPEN AGENTIC INTELLIGENCE](https://arxiv.org/pdf/2507.20534)
+
+### Curriculum Learning
 
 Scaling difficuity of task through curriculum learning, converting sparse reward to dense reward.
 - [2507] [Blending Supervised and Reinforcement Fine-Tuning with Prefix Sampling](https://arxiv.org/abs/2507.01679)
