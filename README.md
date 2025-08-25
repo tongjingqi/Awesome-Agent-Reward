@@ -109,6 +109,8 @@ Design reward function and synthesis data to scale up the quantities of the real
 
 - [2504] [GUI-R1: A Generalist R1-Style Vision-Language Action Model For GUI Agents](https://arxiv.org/pdf/2504.10458)
 
+- [2412] [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/pdf/2412.19723)
+
 ### VLA
 - [2505] [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/abs/2505.18719) -  Reward design in embodied AI systems
   
@@ -180,9 +182,14 @@ Training reward models from preference data to enable policy learning on general
 - [2402] [Code as Reward: Empowering Reinforcement Learning with VLMs](https://arxiv.org/abs/2402.04764)
 - [2402] [RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback](https://arxiv.org/abs/2402.03681)
   
+
 ### Process Supervision
-- [2501] [Process Reward Modeling](https://arxiv.org/abs/2501.07301) - Supervising intermediate reasoning steps rather than just final outcomes
+
+- [2507] [Dynamic and Generalizable Process Reward Modeling](https://arxiv.org/pdf/2507.17849)
+- [2501] [The Lessons of Developing Process Reward Models in Mathematical Reasoning](https://arxiv.org/abs/2501.07301) - Supervising intermediate reasoning steps rather than just final outcomes
 - [2312] [Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935)
+- [2305] [Let’s Verify Step by Step](https://arxiv.org/pdf/2305.20050)
+
 ## Evaluation and Benchmarks
 
 ### Reward Model Evaluation
@@ -210,6 +217,8 @@ Training reward models from preference data to enable policy learning on general
   
 - [2410] [ING-VP: Mllms cannot play easy vision-based games yet](https://arxiv.org/abs/2410.06555)
 
+- [2505] [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/pdf/2505.19897)
+
 ### Computer Use
 
 - [2404] [OSWORLD: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/pdf/2404.07972)
@@ -221,7 +230,6 @@ Training reward models from preference data to enable policy learning on general
 - [2403] [WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?](https://arxiv.org/abs/2403.07718)
 
 - [2504] [BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516)
-  
 
 ### Learning Capability Assessment  
 - [2506] [EvaLearn: Quantifying the Learning Capability and Efficiency of LLMs via Sequential Problem Solving](https://arxiv.org/abs/2506.02672) - Evaluating learning capabilities through sequential problem solving rather than independent test cases
