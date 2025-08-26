@@ -38,7 +38,7 @@ We divided Reward Construction research into 5 categories, including **Verifiabl
 
 ## Verifiable Task Construction
 
-Scaling task quantities through constructing new verifiable task gyms, such as puzzles, games. It can enhancing model general capabilities. We divided Reward Construction research to 4 types, including **Multi-Modal Reasoning**, **Text-Based Puzzle Solving**, **Zero-Sum Games**, **Converting Open-Domain Tasks to Verifiable Tasks** and **Curriculum Learning**.
+Scaling task quantities through constructing new verifiable task gyms, such as puzzles, games. Training agents to solve these task can enhance model general reasoning capabilities. We divided Reward Construction research to 4 types, including **Multi-Modal Reasoning**, **Text-Based Puzzle Solving**, **Zero-Sum Games**, **Converting Open-Domain Tasks to Verifiable Tasks** and **Curriculum Learning**.
 
 ### Multi-Modal Reasoning
 - [2505] [Code2Logic: Game-Code-Driven Data Synthesis for Enhancing VLMs General Reasoning](https://arxiv.org/abs/2505.13886) - Using game code to synthesize verifiable multi-modal reasoning data for improving VLM general reasoning through RL
@@ -204,7 +204,7 @@ Scaling preference data for reward models training to enable policy learning on 
 
 ## Evaluation and Benchmarks
 
-Providing benchmarks or gyms to evaluation the model proformance. We divided Evaluation and Benchmarks into 4 types: Reward Model Benchmarks, Game Gym, Web Search, Computer Use and New Evaluation Dimension.
+Providing benchmarks or gyms to evaluate the model proformance. We divided Evaluation and Benchmarks into 4 types: Reward Model Benchmarks, Game Gym, Web Search, Computer Use and New Evaluation Dimension.
 
 ### Reward Model Benchmarks
 - [2403] [RewardBench](https://arxiv.org/abs/2403.13787) - Comprehensive benchmark for reward model evaluation
@@ -233,7 +233,7 @@ Providing benchmarks or gyms to evaluation the model proformance. We divided Eva
 
 - [2505] [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/pdf/2505.19897)
 
-### Web Search
+### Web Search Evaluation
 
 - [2311] [GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983)
   
@@ -241,7 +241,7 @@ Providing benchmarks or gyms to evaluation the model proformance. We divided Eva
   
 - [2504] [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](https://arxiv.org/abs/2504.19314)
   
-### Computer Use
+### Computer Use Evaluation
 
 - [2404] [OSWORLD: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/pdf/2404.07972)
   
@@ -251,7 +251,7 @@ Providing benchmarks or gyms to evaluation the model proformance. We divided Eva
 
 - [2504] [BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516)
 
-### Tool Use
+### Tool Use Evaluation
 - [2406] [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/pdf/2406.12045)
 
 - [2501] [ToolHop: A Query-Driven Benchmark for Evaluating Large Language Models in Multi-Hop Tool Use](https://arxiv.org/abs/2501.02506)
