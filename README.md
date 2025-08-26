@@ -140,7 +140,7 @@ Towards future: Using world models and real-world interactions for reward constr
   
 ## Unsupervised Reward Construction
 
-Finding reward signals from model internals without external supervision. We divided Unsupervised Reward Construction into 2 types, including Proposer and Solver and the discussion of can Large Reasoning Models Self-Train.
+Finding reward signals from model internals. Model generates data to train itself. We divided Unsupervised Reward Construction into 2 types, including Proposer and Solver and the discussion of can Large Reasoning Models Self-Train.
 
 ### Proposer and Solver 
 
