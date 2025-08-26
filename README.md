@@ -56,9 +56,9 @@ Scaling task quantities through constructing new verifiable task gyms, such as p
 ### Zero-Sum Games
 - [2506] [SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119) - Using chess games' natural verifiable environments for self-play with win/loss rewards to enhance general reasoning
 
-### Converting Open-Domain Tasks to Verifiable Tasks
+### Converting General Tasks to Verifiable Tasks
 
-Transforming next token prediction and pre-training tasks into RL-compatible formats.
+Transforming general tasks which usually trained through Pretraining and SFT, into RL-compatible formats.
 
 - [2506] [Reinforcement Pre-training](https://arxiv.org/abs/2506.08007) - Converting next token prediction tasks into verifiable rewards where the next token serves as the verification signal
 
