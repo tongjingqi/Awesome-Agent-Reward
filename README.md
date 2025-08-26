@@ -69,6 +69,16 @@ Transforming general tasks which usually trained through Pretraining and SFT, in
 
 - [2505] [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493) - General reasoning enhancement without explicit verification mechanisms
 
+### Curriculum Learning
+
+Scaling difficuity of task through curriculum learning, converting sparse reward to dense reward.
+- [2507] [Blending Supervised and Reinforcement Fine-Tuning with Prefix Sampling](https://arxiv.org/abs/2507.01679)
+
+- [2505] [UFT: Unifying Supervised and Reinforcement Fine-Tuning](https://arxiv.org/pdf/2505.16984)
+
+- [2402] [Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/pdf/2402.05808)
+
+- [2405] [Reverse Forward Curriculum Learning for Extreme Sample and Demonstration Efficiency in Reinforcement Learning](https://arxiv.org/pdf/2405.03379)
 
 ## Real-World Task Reward Construction
 
