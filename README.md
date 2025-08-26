@@ -170,7 +170,8 @@ Discussion of can Large Reasoning Models Self-Train.
   
 ## Reward Model Construction
 
-Training reward models from preference data to enable policy learning on general tasks.
+Scaling preference data for reward models training to enable policy learning on general tasks.
+
 ### Generative Reward Model
 - [2504] [Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/abs/2504.02495)
   
@@ -199,7 +200,9 @@ Training reward models from preference data to enable policy learning on general
 
 ## Evaluation and Benchmarks
 
-### Reward Model Evaluation
+Providing benchmarks or gyms to evaluation the model proformance. We divided Evaluation and Benchmarks into 4 types: Reward Model Benchmarks, Game Gym, Web Search, Computer Use and New Evaluation Dimension.
+
+### Reward Model Benchmarks
 - [2403] [RewardBench](https://arxiv.org/abs/2403.13787) - Comprehensive benchmark for reward model evaluation
 
 - [2411] [VL-RewardBench](https://arxiv.org/abs/2411.17451) - Vision-language reward model benchmarking
@@ -208,7 +211,7 @@ Training reward models from preference data to enable policy learning on general
 
 - [2412] [PROCESSBENCH](https://arxiv.org/pdf/2412.06559)
 
-### Games
+### Game Gym
 
 - [2406] [GameBench: Evaluating strategic reasoning abilities of llm agents](https://arxiv.org/abs/2406.06613)
   
@@ -226,6 +229,8 @@ Training reward models from preference data to enable policy learning on general
 
 - [2505] [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/pdf/2505.19897)
 
+### Web Search
+
 ### Computer Use
 
 - [2404] [OSWORLD: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/pdf/2404.07972)
@@ -238,7 +243,7 @@ Training reward models from preference data to enable policy learning on general
 
 - [2504] [BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516)
 
-### Learning Capability Assessment  
+### New dimension to evalate  
 - [2506] [EvaLearn: Quantifying the Learning Capability and Efficiency of LLMs via Sequential Problem Solving](https://arxiv.org/abs/2506.02672) - Evaluating learning capabilities through sequential problem solving rather than independent test cases
 
 ## Limitation and Future Work
