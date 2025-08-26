@@ -111,6 +111,13 @@ Design reward function and synthesis data to scale up the quantities of the real
 
 - [2412] [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/pdf/2412.19723)
 
+### Tool
+- [2504] [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/abs/2504.13958)
+  
+- [2504] [ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://arxiv.org/pdf/2504.11536)
+
+- [2503] [TORL: Scaling Tool-Integrated RL](https://arxiv.org/abs/2503.23383)
+  
 ### VLA
 - [2505] [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/abs/2505.18719) -  Reward design in embodied AI systems
   
