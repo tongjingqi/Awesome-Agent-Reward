@@ -154,9 +154,8 @@ Finding reward signals from model internals without external supervision. We div
 
 - [2508] [Self-Questioning Language Models](https://arxiv.org/pdf/2508.03682)
 
-### Can Large Reasoning Models Self-Train?
-
-Discussion of can Large Reasoning Models Self-Train.
+### Internal Signal Mining
+Extracting learning signals from model internals, confidence scores, and consistant behaviors without external validation or verification mechanisms.
 
 - [2505] [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/abs/2505.22617) - Understanding how entropy affects reinforcement learning in reasoning models, it indicated that the improvement of self-train may cause by the entropy mechanism.
 
