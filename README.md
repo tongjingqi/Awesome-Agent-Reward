@@ -257,6 +257,14 @@ Providing benchmarks or gyms to evaluation the model proformance. We divided Eva
 
 ### Tool Use
 
+- [2501] [ToolHop: A Query-Driven Benchmark for Evaluating Large Language Models in Multi-Hop Tool Use](https://arxiv.org/abs/2501.02506)
+  
+- [2501] [ComplexFuncBench: Exploring Multi-Step and Constrained Function Calling under Long-Context Scenario](https://arxiv.org/abs/2501.10132)
+  
+- [2501] [ACEBench: Who Wins the Match Point in Tool Usage?](https://arxiv.org/abs/2501.12851)
+
+- [2503] [SOPBench: Evaluating Language Agents at Following Standard Operating Procedures and Constraints](https://arxiv.org/abs/2503.08669)
+
 ### New dimension to evalate  
 - [2506] [EvaLearn: Quantifying the Learning Capability and Efficiency of LLMs via Sequential Problem Solving](https://arxiv.org/abs/2506.02672) - Evaluating learning capabilities through sequential problem solving rather than independent test cases
 
