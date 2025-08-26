@@ -38,7 +38,7 @@ We divided Reward Construction research into 5 categories, including **Verifiabl
 
 ## Verifiable Task Construction
 
-Scaling task quantities through constructing new verifiable task gyms, such as puzzles, games. It can enhancing model general capabilities. We divided Reward Construction research to 4 types, including **Multi-Modal Reasoning**, **Text-Based Puzzle Solving**, **Zero-Sum Games**, **Converting Open-Domain Tasks to Verifiable Tasks** and **Curriculum Construction**.
+Scaling task quantities through constructing new verifiable task gyms, such as puzzles, games. It can enhancing model general capabilities. We divided Reward Construction research to 4 types, including **Multi-Modal Reasoning**, **Text-Based Puzzle Solving**, **Zero-Sum Games**, **Converting Open-Domain Tasks to Verifiable Tasks** and **Curriculum Learning**.
 
 ### Multi-Modal Reasoning
 - [2505] [Code2Logic: Game-Code-Driven Data Synthesis for Enhancing VLMs General Reasoning](https://arxiv.org/abs/2505.13886) - Using game code to synthesize verifiable multi-modal reasoning data for improving VLM general reasoning through RL
