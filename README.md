@@ -117,7 +117,7 @@ Design reward function and synthesis data to scale up the quantities of the real
 - [2412] [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/pdf/2412.19723)
 
   
-### Vision-Language-Action Model
+### Embodied AI & Vision-Language-Action Model
 
 - [2505] [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/abs/2505.18719) -  Reward design in embodied AI systems
   
