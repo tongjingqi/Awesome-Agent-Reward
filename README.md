@@ -87,7 +87,13 @@ Design reward function and synthesis data to scale up the quantities of the real
 
 ### Web Search
 - [2505] [WebDancer: Towards Autonomous Information Seeking Agency](https://arxiv.org/abs/2505.22648) - Synthesizing agent action trajectories for search tasks, constructing verifiable QA pairs for RL training on information seeking
+  
+- [2507] [WebSailor: Navigating Super-human Reasoning for Web Agent](https://arxiv.org/pdf/2507.02592)
 
+- [2507] [WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization](https://arxiv.org/pdf/2507.15061)
+
+- [2508] [WebWatcher: Breaking New Frontiers of Vision-Language Deep Research Agent](https://arxiv.org/pdf/2508.05748)
+  
 - [2503] [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)
 
 - [2408] [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/pdf/2408.07199) - Combination of DPO, MCTS, and process supervision for web navigation tasks with multi-modal reasoning rewards
