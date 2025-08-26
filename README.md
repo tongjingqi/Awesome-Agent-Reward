@@ -238,7 +238,11 @@ Providing benchmarks or gyms to evaluation the model proformance. We divided Eva
 ### Web Search
 
 - [2311] [GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983)
-
+  
+- [2504] [BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516)
+  
+- [2504] [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](https://arxiv.org/abs/2504.19314)
+  
 ### Computer Use
 
 - [2404] [OSWORLD: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/pdf/2404.07972)
