@@ -259,8 +259,6 @@ Providing benchmarks or gyms to evaluate the model proformance. We divided Evalu
 
 - [2504] [BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516)
 
-### New dimension to evalate  
-- [2506] [EvaLearn: Quantifying the Learning Capability and Efficiency of LLMs via Sequential Problem Solving](https://arxiv.org/abs/2506.02672) - Evaluating learning capabilities through sequential problem solving rather than independent test cases
 
 ## Limitation and Future Work
 
