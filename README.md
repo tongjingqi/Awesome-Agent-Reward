@@ -68,8 +68,6 @@ Transforming next token prediction and pre-training tasks into RL-compatible for
 
 - [2505] [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493) - General reasoning enhancement without explicit verification mechanisms
 
-- [2507] [KIMI K2: OPEN AGENTIC INTELLIGENCE](https://arxiv.org/pdf/2507.20534)
-
 ### Curriculum Learning
 
 Scaling difficuity of task through curriculum learning, converting sparse reward to dense reward.
@@ -123,6 +121,8 @@ Design reward function and synthesis data to scale up the quantities of the real
 - [2504] [ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://arxiv.org/pdf/2504.11536)
 
 - [2503] [TORL: Scaling Tool-Integrated RL](https://arxiv.org/abs/2503.23383)
+  
+- [2507] [KIMI K2: OPEN AGENTIC INTELLIGENCE](https://arxiv.org/pdf/2507.20534)
   
 ### VLA
 - [2505] [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/abs/2505.18719) -  Reward design in embodied AI systems
