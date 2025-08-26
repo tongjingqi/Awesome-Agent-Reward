@@ -148,6 +148,8 @@ Finding reward signals from model internals without external supervision. We div
 
 ### Proposer and Solver 
 
+Models simultaneously act as problem proposers and solution generators, creating new training data.
+
 - [2505] [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335) - Models serving dual roles as problem proposers and solvers, using compiler verification for self-improvement without external data
 
 - [2508] [R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004)
