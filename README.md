@@ -231,6 +231,8 @@ Providing benchmarks or gyms to evaluation the model proformance. We divided Eva
 
 ### Web Search
 
+- [2311] [GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983)
+
 ### Computer Use
 
 - [2404] [OSWORLD: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/pdf/2404.07972)
