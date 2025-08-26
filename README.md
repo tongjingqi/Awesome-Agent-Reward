@@ -54,6 +54,7 @@ Scaling task quantities through constructing new verifiable task gyms, such as p
 - [2505] [Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles](https://arxiv.org/abs/2505.19914) - Creating synthetic puzzles to enhance logical reasoning capabilities
 
 ### Zero-Sum Games
+
 - [2506] [SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119) - Using chess games' natural verifiable environments for self-play with win/loss rewards to enhance general reasoning
 
 ### Converting General Tasks to Verifiable Tasks
@@ -115,14 +116,9 @@ Design reward function and synthesis data to scale up the quantities of the real
 
 - [2412] [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/pdf/2412.19723)
 
-### Tool 
-- [2504] [ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://arxiv.org/pdf/2504.11536)
+  
+### Vision-Language-Action Model
 
-- [2503] [TORL: Scaling Tool-Integrated RL](https://arxiv.org/abs/2503.23383)
-  
-- [2507] [KIMI K2: OPEN AGENTIC INTELLIGENCE](https://arxiv.org/pdf/2507.20534)
-  
-### VLA
 - [2505] [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/abs/2505.18719) -  Reward design in embodied AI systems
   
 - [2412] [RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning](https://arxiv.org/pdf/2412.09858)
@@ -253,6 +249,7 @@ Providing benchmarks or gyms to evaluate the model proformance. We divided Evalu
 - [2504] [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](https://arxiv.org/abs/2504.19314)
   
 ### Computer Use Evaluation
+- [2406] [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/pdf/2406.12045)
 
 - [2404] [OSWORLD: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/pdf/2404.07972)
   
@@ -261,17 +258,6 @@ Providing benchmarks or gyms to evaluate the model proformance. We divided Evalu
 - [2403] [WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?](https://arxiv.org/abs/2403.07718)
 
 - [2504] [BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516)
-
-### Tool Use Evaluation
-- [2406] [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/pdf/2406.12045)
-
-- [2501] [ToolHop: A Query-Driven Benchmark for Evaluating Large Language Models in Multi-Hop Tool Use](https://arxiv.org/abs/2501.02506)
-  
-- [2501] [ComplexFuncBench: Exploring Multi-Step and Constrained Function Calling under Long-Context Scenario](https://arxiv.org/abs/2501.10132)
-  
-- [2501] [ACEBench: Who Wins the Match Point in Tool Usage?](https://arxiv.org/abs/2501.12851)
-
-- [2503] [SOPBench: Evaluating Language Agents at Following Standard Operating Procedures and Constraints](https://arxiv.org/abs/2503.08669)
 
 ### New dimension to evalate  
 - [2506] [EvaLearn: Quantifying the Learning Capability and Efficiency of LLMs via Sequential Problem Solving](https://arxiv.org/abs/2506.02672) - Evaluating learning capabilities through sequential problem solving rather than independent test cases
