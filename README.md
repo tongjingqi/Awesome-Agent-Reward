@@ -115,9 +115,7 @@ Design reward function and synthesis data to scale up the quantities of the real
 
 - [2412] [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/pdf/2412.19723)
 
-### Tool
-- [2504] [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/abs/2504.13958)
-  
+### Tool 
 - [2504] [ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://arxiv.org/pdf/2504.11536)
 
 - [2503] [TORL: Scaling Tool-Integrated RL](https://arxiv.org/abs/2503.23383)
@@ -247,8 +245,6 @@ Providing benchmarks or gyms to evaluation the model proformance. We divided Eva
 
 - [2404] [OSWORLD: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/pdf/2404.07972)
   
-- [2406] [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/pdf/2406.12045)
-  
 - [2412] [TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](https://arxiv.org/abs/2412.14161)
   
 - [2403] [WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?](https://arxiv.org/abs/2403.07718)
@@ -256,6 +252,7 @@ Providing benchmarks or gyms to evaluation the model proformance. We divided Eva
 - [2504] [BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516)
 
 ### Tool Use
+- [2406] [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/pdf/2406.12045)
 
 - [2501] [ToolHop: A Query-Driven Benchmark for Evaluating Large Language Models in Multi-Hop Tool Use](https://arxiv.org/abs/2501.02506)
   
