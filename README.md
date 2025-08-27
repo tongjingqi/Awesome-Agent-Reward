@@ -41,21 +41,21 @@ We divided Reward Construction research into 5 categories, including **Verifiabl
 Scaling task quantities through constructing new verifiable task gyms, such as puzzles, games. Training agents to solve these task can enhance model general reasoning capabilities. We divided Reward Construction research to 4 types, including **Multi-Modal Reasoning**, **Text-Based Puzzle Solving**, **Zero-Sum Games**, **Converting Open-Domain Tasks to Verifiable Tasks** and **Curriculum Learning**.
 
 ### Multi-Modal Reasoning
-- [2505] [Code2Logic: Game-Code-Driven Data Synthesis for Enhancing VLMs General Reasoning](https://arxiv.org/abs/2505.13886) - Using game code to synthesize verifiable multi-modal reasoning data for improving VLM general reasoning through RL
+- [2505] [![Stargazers](https://img.shields.io/github/stars/tongjingqi/Code2Logic?style=social)](https://github.com/tongjingqi/Code2Logic) [Code2Logic: Game-Code-Driven Data Synthesis for Enhancing VLMs General Reasoning](https://arxiv.org/abs/2505.13886) - Using game code to synthesize verifiable multi-modal reasoning data for improving VLM general reasoning through RL
 
-- [2506] [Play to Generalize: Learning to Reason Through Game Play](https://arxiv.org/abs/2506.08011) - Training expert models on Snake game to provide ground truth for multi-modal reasoning rewards, improving general reasoning capabilities through RL
+- [2506] [![Stargazers](https://img.shields.io/github/stars/yunfeixie233/ViGaL?style=social)](https://github.com/yunfeixie233/ViGaL) [Play to Generalize: Learning to Reason Through Game Play](https://arxiv.org/abs/2506.08011) - Training expert models on Snake game to provide ground truth for multi-modal reasoning rewards, improving general reasoning capabilities through RL
 
 
 ### Text-Based Puzzle Solving
-- [2508] [InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling](https://arxiv.org/pdf/2508.08636) - Advanced reasoning through structured thinking processes
+- [2508] [![Stargazers](https://img.shields.io/github/stars/InternLM/InternBootcamp?style=social)](https://github.com/InternLM/InternBootcamp) [InternBootcamp Technical Report: Boosting LLM Reasoning with Verifiable Task Scaling](https://arxiv.org/pdf/2508.08636) - Advanced reasoning through structured thinking processes
 
-- [2505] [SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond](https://arxiv.org/abs/2505.19641) - Systematic approach to generating logical reasoning data
+- [2505] [![Stargazers](https://img.shields.io/github/stars/MiniMax-AI/SynLogic?style=social)](https://github.com/MiniMax-AI/SynLogic) [SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond](https://arxiv.org/abs/2505.19641) - Systematic approach to generating logical reasoning data
 
-- [2505] [Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles](https://arxiv.org/abs/2505.19914) - Creating synthetic puzzles to enhance logical reasoning capabilities
+- [2505] [![Stargazers](https://img.shields.io/github/stars/BytedTsinghua-SIA/Enigmata?style=social)](https://github.com/BytedTsinghua-SIA/Enigmata) [Enigmata: Scaling Logical Reasoning in Large Language Models with Synthetic Verifiable Puzzles](https://arxiv.org/abs/2505.19914) - Creating synthetic puzzles to enhance logical reasoning capabilities
 
 ### Zero-Sum Games
 
-- [2506] [SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119) - Using chess games' natural verifiable environments for self-play with win/loss rewards to enhance general reasoning
+- [2506] [![Stargazers](https://img.shields.io/github/stars/spiral-rl/spiral?style=social)](https://github.com/spiral-rl/spiral) [SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2506.24119) - Using chess games' natural verifiable environments for self-play with win/loss rewards to enhance general reasoning
 
 ### Converting General Tasks to Verifiable Tasks
 
@@ -65,61 +65,61 @@ Transforming general tasks which usually trained through Pretraining and SFT, in
 
 - [2503] [Learning to Reason for Long-Form Story Generation](https://arxiv.org/abs/2503.22828) - Constructing next chapter prediction tasks for story generation, using subsequent chapters as ground truth for reward construction
 
-- [2506] [RLPR: Extrapolating RLVR to General Domains without Verifiers](https://arxiv.org/abs/2506.18254) - Extending reinforcement learning from verifiable reasoning to general domains
+- [2506] [![Stargazers](https://img.shields.io/github/stars/OpenBMB/RLPR?style=social)](https://github.com/OpenBMB/RLPR) [RLPR: Extrapolating RLVR to General Domains without Verifiers](https://arxiv.org/abs/2506.18254) - Extending reinforcement learning from verifiable reasoning to general domains
 
-- [2505] [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493) - General reasoning enhancement without explicit verification mechanisms
+- [2505] [![Stargazers](https://img.shields.io/github/stars/sail-sg/VeriFree?style=social)](https://github.com/sail-sg/VeriFree) [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493) - General reasoning enhancement without explicit verification mechanisms
 
 ### Curriculum Learning
 
 Scaling difficuity of task through curriculum learning, converting sparse reward to dense reward.
 - [2507] [Blending Supervised and Reinforcement Fine-Tuning with Prefix Sampling](https://arxiv.org/abs/2507.01679)
 
-- [2505] [UFT: Unifying Supervised and Reinforcement Fine-Tuning](https://arxiv.org/pdf/2505.16984)
+- [2505] [![Stargazers](https://img.shields.io/github/stars/liumy2010/UFT?style=social)](https://github.com/liumy2010/UFT) [UFT: Unifying Supervised and Reinforcement Fine-Tuning](https://arxiv.org/pdf/2505.16984)
 
-- [2402] [Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/pdf/2402.05808)
+- [2402] [![Stargazers](https://img.shields.io/github/stars/WooooDyy/LLM-Reverse-Curriculum-RL?style=social)](https://github.com/WooooDyy/LLM-Reverse-Curriculum-RL) [Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/pdf/2402.05808)
 
-- [2405] [Reverse Forward Curriculum Learning for Extreme Sample and Demonstration Efficiency in Reinforcement Learning](https://arxiv.org/pdf/2405.03379)
+- [2405] [![Stargazers](https://img.shields.io/github/stars/StoneT2000/rfcl?style=social)](https://github.com/StoneT2000/rfcl) [Reverse Forward Curriculum Learning for Extreme Sample and Demonstration Efficiency in Reinforcement Learning](https://arxiv.org/pdf/2405.03379)
 
 ## Real-World Task Reward Construction
 
 Design reward function and synthesis data to scale up the quantities of the real-world reward. We divided Real-World Task Reward Construction research into 4 types, including **Web Search**, **GUI**, **VLA** and **World Model**.
 
 ### Web Search
-- [2505] [WebDancer: Towards Autonomous Information Seeking Agency](https://arxiv.org/abs/2505.22648) - Synthesizing agent action trajectories for search tasks, constructing verifiable QA pairs for RL training on information seeking
+- [2505] [![Stargazers](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent?style=social)](https://github.com/Alibaba-NLP/WebAgent) [WebDancer: Towards Autonomous Information Seeking Agency](https://arxiv.org/abs/2505.22648) - Synthesizing agent action trajectories for search tasks, constructing verifiable QA pairs for RL training on information seeking
   
-- [2507] [WebSailor: Navigating Super-human Reasoning for Web Agent](https://arxiv.org/pdf/2507.02592)
+- [2507] [![Stargazers](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent?style=social)](https://github.com/Alibaba-NLP/WebAgent) [WebSailor: Navigating Super-human Reasoning for Web Agent](https://arxiv.org/pdf/2507.02592)
 
-- [2507] [WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization](https://arxiv.org/pdf/2507.15061)
+- [2507] [![Stargazers](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent?style=social)](https://github.com/Alibaba-NLP/WebAgent) [WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization](https://arxiv.org/pdf/2507.15061)
 
-- [2508] [WebWatcher: Breaking New Frontiers of Vision-Language Deep Research Agent](https://arxiv.org/pdf/2508.05748)
+- [2508] [![Stargazers](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent?style=social)](https://github.com/Alibaba-NLP/WebAgent) [WebWatcher: Breaking New Frontiers of Vision-Language Deep Research Agent](https://arxiv.org/pdf/2508.05748)
   
-- [2503] [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)
+- [2503] [![Stargazers](https://img.shields.io/github/stars/PeterGriffinJin/Search-R1?style=social)](https://github.com/PeterGriffinJin/Search-R1) [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516)
 
-- [2408] [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/pdf/2408.07199) - Combination of DPO, MCTS, and process supervision for web navigation tasks with multi-modal reasoning rewards
+- [2408] [![Stargazers](https://img.shields.io/github/stars/sentient-engineering/agent-q?style=social)](https://github.com/sentient-engineering/agent-q) [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/pdf/2408.07199) - Combination of DPO, MCTS, and process supervision for web navigation tasks with multi-modal reasoning rewards
 
-- [2411] [WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning](https://arxiv.org/pdf/2411.02337)
+- [2411] [![Stargazers](https://img.shields.io/github/stars/THUDM/WebRL?style=social)](https://github.com/THUDM/WebRL) [WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning](https://arxiv.org/pdf/2411.02337)
   
-- [2508] [Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Asynchronous RL](https://arxiv.org/pdf/2508.07976)
+- [2508] [![Stargazers](https://img.shields.io/github/stars/inclusionAI/ASearcher?style=social)](https://github.com/inclusionAI/ASearcher) [Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Asynchronous RL](https://arxiv.org/pdf/2508.07976)
   
-- [2504] [WebThinker: Empowering Large Reasoning Models with Deep Research Capability](https://arxiv.org/pdf/2504.21776)
+- [2504] [![Stargazers](https://img.shields.io/github/stars/RUC-NLPIR/WebThinker?style=social)](https://github.com/RUC-NLPIR/WebThinker) [WebThinker: Empowering Large Reasoning Models with Deep Research Capability](https://arxiv.org/pdf/2504.21776)
 
 ### GUI
-- [2506] [AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents](https://arxiv.org/abs/2506.14205)
+- [2506] [![Stargazers](https://img.shields.io/github/stars/sunblaze-ucb/AgentSynth?style=social)](https://github.com/sunblaze-ucb/AgentSynth) [AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents](https://arxiv.org/abs/2506.14205)
 
 - [2506] [AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning](https://arxiv.org/pdf/2506.01391)
 
-- [2505] [ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay](https://arxiv.org/pdf/2505.16282)
+- [2505] [![Stargazers](https://img.shields.io/github/stars/dvlab-research/ARPO?style=social)](https://github.com/dvlab-research/ARPO) [ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay](https://arxiv.org/pdf/2505.16282)
 
 - [2505] [GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents](https://arxiv.org/pdf/2505.15810)
 
-- [2504] [GUI-R1: A Generalist R1-Style Vision-Language Action Model For GUI Agents](https://arxiv.org/pdf/2504.10458)
+- [2504] [![Stargazers](https://img.shields.io/github/stars/ritzz-ai/GUI-R1?style=social)](https://github.com/ritzz-ai/GUI-R1) [GUI-R1: A Generalist R1-Style Vision-Language Action Model For GUI Agents](https://arxiv.org/pdf/2504.10458)
 
-- [2412] [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/pdf/2412.19723)
+- [2412] [![Stargazers](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis?style=social)](https://github.com/OS-Copilot/OS-Genesis) [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/pdf/2412.19723)
 
   
 ### Embodied AI & Vision-Language-Action Model
 
-- [2505] [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/abs/2505.18719) -  Reward design in embodied AI systems
+- [2505] [![Stargazers](https://img.shields.io/github/stars/GuanxingLu/vlarl?style=social)](https://github.com/GuanxingLu/vlarl) [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/abs/2505.18719) -  Reward design in embodied AI systems
   
 - [2412] [RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning](https://arxiv.org/pdf/2412.09858)
 
