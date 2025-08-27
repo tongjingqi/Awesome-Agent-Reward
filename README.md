@@ -106,11 +106,11 @@ Design reward function and synthesis data to scale up the quantities of the real
 ### GUI
 - [2506] [![Stargazers](https://img.shields.io/github/stars/sunblaze-ucb/AgentSynth?style=social)](https://github.com/sunblaze-ucb/AgentSynth) [AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents](https://arxiv.org/abs/2506.14205)
 
-- [2506] [AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning](https://arxiv.org/pdf/2506.01391)
+- [2506] [![Stargazers](https://img.shields.io/github/stars/OpenBMB/AgentCPM-GUI?style=social)](https://github.com/OpenBMB/AgentCPM-GUI) [AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning](https://arxiv.org/pdf/2506.01391)
 
 - [2505] [![Stargazers](https://img.shields.io/github/stars/dvlab-research/ARPO?style=social)](https://github.com/dvlab-research/ARPO) [ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay](https://arxiv.org/pdf/2505.16282)
 
-- [2505] [GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents](https://arxiv.org/pdf/2505.15810)
+- [2505] [![Stargazers](https://img.shields.io/github/stars/Yuqi-Zhou/GUI-G1?style=social)](https://github.com/Yuqi-Zhou/GUI-G1) [GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents](https://arxiv.org/pdf/2505.15810)
 
 - [2504] [![Stargazers](https://img.shields.io/github/stars/ritzz-ai/GUI-R1?style=social)](https://github.com/ritzz-ai/GUI-R1) [GUI-R1: A Generalist R1-Style Vision-Language Action Model For GUI Agents](https://arxiv.org/pdf/2504.10458)
 
@@ -136,7 +136,7 @@ Towards future: Using world models and real-world interactions for reward constr
 
 - [2508] [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
   
-- [2508] [Matrix-Game 2.0: An Open-Source, Real-Time, andStreaming Interactive World Model](https://arxiv.org/pdf/2508.13009)
+- [2508] [![Stargazers](https://img.shields.io/github/stars/SkyworkAI/Matrix-Game?style=social)](https://github.com/SkyworkAI/Matrix-Game) [Matrix-Game 2.0: An Open-Source, Real-Time, andStreaming Interactive World Model](https://arxiv.org/pdf/2508.13009)
   
 ## Unsupervised Reward Construction
 
@@ -159,19 +159,19 @@ Extracting learning signals from model internals, confidence scores, and consist
 
 - [2506] [Spurious Rewards: Rethinking Training Signals in RLVR](https://arxiv.org/abs/2506.10947) - Can random reward improve model performance?
 
-- [2505] [Can Large Reasoning Models Self-Train](https://arxiv.org/abs/2505.20282)
+- [2505] [![Stargazers](https://img.shields.io/github/stars/zitian-gao/one-shot-em?style=social)](https://github.com/zitian-gao/one-shot-em) [Can Large Reasoning Models Self-Train](https://arxiv.org/abs/2505.20282)
 
-- [2504] [TTRL: Test-Time Reinforcement Learning](https://arxiv.org/abs/2504.16084)
+- [2504] [![Stargazers](https://img.shields.io/github/stars/PRIME-RL/TTRL?style=social)](https://github.com/PRIME-RL/TTRL) [TTRL: Test-Time Reinforcement Learning](https://arxiv.org/abs/2504.16084)
 
-- [2505] [Enhancing Reasoning Ability through RL without Labels](https://arxiv.org/abs/2505.21493) - Completely unsupervised methods for reasoning enhancement
+- [2505] [![Stargazers](https://img.shields.io/github/stars/sail-sg/VeriFree?style=social)](https://github.com/sail-sg/VeriFree) [Enhancing Reasoning Ability through RL without Labels](https://arxiv.org/abs/2505.21493) - Completely unsupervised methods for reasoning enhancement
 
 - [2505] [Maximizing Confidence Alone Improves Reasoning](https://arxiv.org/abs/2505.22660)
 
-- [2505] [VeriFree: Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493)
+- [2505] [![Stargazers](https://img.shields.io/github/stars/sail-sg/VeriFree?style=social)](https://github.com/sail-sg/VeriFree) [VeriFree: Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493)
 
-- [2504] [Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization](https://arxiv.org/abs/2504.05812)
+- [2504] [![Stargazers](https://img.shields.io/github/stars/QingyangZhang/EMPO?style=social)](https://github.com/QingyangZhang/EMPO) [Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization](https://arxiv.org/abs/2504.05812)
 
-- [2505] [Learning to Reason without External Rewards](https://arxiv.org/abs/2505.19590)
+- [2505] [![Stargazers](https://img.shields.io/github/stars/sunblaze-ucb/Intuitor?style=social)](https://github.com/sunblaze-ucb/Intuitor) [Learning to Reason without External Rewards](https://arxiv.org/abs/2505.19590)
   
 ## Reward Model Construction
 
@@ -190,7 +190,7 @@ Scaling preference data for reward models training to enable policy learning on 
 - [2507] [POLAR：Pre-Trained Policy Discriminators are General Reward Models](https://arxiv.org/pdf/2507.05197)
   
 ### Multi-Modal Reward Models  
-- [2505] [WavReward: Spoken Dialogue Models With Generalist Reward Evaluators](https://arxiv.org/abs/2505.09558) - Reward evaluation for spoken dialogue systems
+- [2505] [![Stargazers](https://img.shields.io/github/stars/jishengpeng/WavReward?style=social)](https://github.com/jishengpeng/WavReward) [WavReward: Spoken Dialogue Models With Generalist Reward Evaluators](https://arxiv.org/abs/2505.09558) - Reward evaluation for spoken dialogue systems
   
 - [2312] [Vision-Language Models as a Source of Rewards](https://arxiv.org/abs/2312.09187)
   
@@ -230,34 +230,34 @@ Providing benchmarks or gyms to evaluate the model proformance. We divided Evalu
   
 - [2412] [GameArena: Evaluating LLM Reasoning through Live Computer Games](https://arxiv.org/abs/2412.06394)
   
-- [2403] [How Far Are We on the Decision-Making of LLMs? Evaluating LLMs’ Gaming Ability in Multi-Agent Environments](https://arxiv.org/abs/2403.11807)
+- [2403] [![Stargazers](https://img.shields.io/github/stars/CUHK-ARISE/GAMABench?style=social)](https://github.com/CUHK-ARISE/GAMABench) [How Far Are We on the Decision-Making of LLMs? Evaluating LLMs’ Gaming Ability in Multi-Agent Environments](https://arxiv.org/abs/2403.11807)
   
-- [2411] [Balrog: Benchmarking agentic llm and vlm reasoning on games](https://arxiv.org/abs/2411.13543)
+- [2411] [![Stargazers](https://img.shields.io/github/stars/balrog-ai/BALROG?style=social)](https://github.com/balrog-ai/BALROG) [Balrog: Benchmarking agentic llm and vlm reasoning on games](https://arxiv.org/abs/2411.13543)
   
-- [2503] [DSGBench: A diverse strategic game benchmark for evaluating llm-based agents in complex decision-making environments](https://arxiv.org/abs/2503.06047)
+- [2503] [![Stargazers](https://img.shields.io/github/stars/DeciBrain-Group/DSGBench?style=social)](https://github.com/DeciBrain-Group/DSGBench) [DSGBench: A diverse strategic game benchmark for evaluating llm-based agents in complex decision-making environments](https://arxiv.org/abs/2503.06047)
   
-- [2410] [ING-VP: Mllms cannot play easy vision-based games yet](https://arxiv.org/abs/2410.06555)
+- [2410] [![Stargazers](https://img.shields.io/github/stars/Thisisus7/ING-VP?style=social)](https://github.com/Thisisus7/ING-VP) [ING-VP: Mllms cannot play easy vision-based games yet](https://arxiv.org/abs/2410.06555)
 
-- [2505] [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/pdf/2505.19897)
+- [2505] [![Stargazers](https://img.shields.io/github/stars/OS-Copilot/ScienceBoard?style=social)](https://github.com/OS-Copilot/ScienceBoard) [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/pdf/2505.19897)
 
 ### Web Search Evaluation
 
 - [2311] [GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983)
   
-- [2504] [BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516)
+- [2504] [![Stargazers](https://img.shields.io/github/stars/openai/simple-evals?style=social)](https://github.com/openai/simple-evals) [BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516)
   
-- [2504] [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](https://arxiv.org/abs/2504.19314)
+- [2504] [![Stargazers](https://img.shields.io/github/stars/PALIN2018/BrowseComp-ZH?style=social)](https://github.com/PALIN2018/BrowseComp-ZH) [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](https://arxiv.org/abs/2504.19314)
   
 ### Computer Use Evaluation
 - [2406] [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/pdf/2406.12045)
 
-- [2404] [OSWORLD: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/pdf/2404.07972)
+- [2404] [![Stargazers](https://img.shields.io/github/stars/xlang-ai/OSWorld?style=social)](https://github.com/xlang-ai/OSWorld) [OSWORLD: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/pdf/2404.07972)
   
 - [2412] [TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](https://arxiv.org/abs/2412.14161)
   
 - [2403] [WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?](https://arxiv.org/abs/2403.07718)
 
-- [2504] [BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516)
+- [2504] [![Stargazers](https://img.shields.io/github/stars/openai/simple-evals?style=social)](https://github.com/openai/simple-evals) [BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516)
 
 
 ## Limitation and Future Work
