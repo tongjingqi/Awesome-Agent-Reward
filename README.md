@@ -121,13 +121,13 @@ Design reward function and synthesis data to scale up the quantities of the real
 
 - [2505] [![Stargazers](https://img.shields.io/github/stars/GuanxingLu/vlarl?style=social)](https://github.com/GuanxingLu/vlarl) [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/abs/2505.18719) -  Reward design in embodied AI systems
   
-- [2412] [RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning](https://arxiv.org/pdf/2412.09858)
+- [2412] [![Stargazers](https://img.shields.io/github/stars/generalist-distillation/RLDG?style=social)](https://github.com/generalist-distillation/RLDG) [RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning](https://arxiv.org/pdf/2412.09858)
 
 - [2501] [Improving vision-language-action model with online reinforcement learning](https://arxiv.org/pdf/2501.16664)
 
 - [2505] [What Can RL Bring to VLA Generalization?](https://arxiv.org/pdf/2505.19789)
 
-- [2505] [Interactive Post-Training for Vision-Language-Action Models](https://arxiv.org/pdf/2505.17016)
+- [2505] [![Stargazers](https://img.shields.io/github/stars/Ariostgx/ript-vla?style=social)](https://github.com/Ariostgx/ript-vla) [Interactive Post-Training for Vision-Language-Action Models](https://arxiv.org/pdf/2505.17016)
 
 ### World Model 
 Towards future: Using world models and real-world interactions for reward construction.
@@ -155,9 +155,9 @@ Models simultaneously act as problem proposers and solution generators, creating
 ### Internal Signal Mining
 Extracting learning signals from model internals, confidence scores, and consistant behaviors without external validation or verification mechanisms.
 
-- [2505] [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/abs/2505.22617) - Understanding how entropy affects reinforcement learning in reasoning models, it indicated that the improvement of self-train may cause by the entropy mechanism.
+- [2505] [![Stargazers](https://img.shields.io/github/stars/PRIME-RL/Entropy-Mechanism-of-RL?style=social)](https://github.com/PRIME-RL/Entropy-Mechanism-of-RL) [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/abs/2505.22617) - Understanding how entropy affects reinforcement learning in reasoning models, it indicated that the improvement of self-train may cause by the entropy mechanism.
 
-- [2506] [Spurious Rewards: Rethinking Training Signals in RLVR](https://arxiv.org/abs/2506.10947) - Can random reward improve model performance?
+- [2506] [![Stargazers](https://img.shields.io/github/stars/ruixin31/Spurious_Rewards?style=social)](https://github.com/ruixin31/Spurious_Rewards) [Spurious Rewards: Rethinking Training Signals in RLVR](https://arxiv.org/abs/2506.10947) - Can random reward improve model performance?
 
 - [2505] [![Stargazers](https://img.shields.io/github/stars/zitian-gao/one-shot-em?style=social)](https://github.com/zitian-gao/one-shot-em) [Can Large Reasoning Models Self-Train](https://arxiv.org/abs/2505.20282)
 
@@ -165,7 +165,7 @@ Extracting learning signals from model internals, confidence scores, and consist
 
 - [2505] [![Stargazers](https://img.shields.io/github/stars/sail-sg/VeriFree?style=social)](https://github.com/sail-sg/VeriFree) [Enhancing Reasoning Ability through RL without Labels](https://arxiv.org/abs/2505.21493) - Completely unsupervised methods for reasoning enhancement
 
-- [2505] [Maximizing Confidence Alone Improves Reasoning](https://arxiv.org/abs/2505.22660)
+- [2505] [![Stargazers](https://img.shields.io/github/stars/sunblaze-ucb/Intuitor?style=social)](https://github.com/sunblaze-ucb/Intuitor) [Maximizing Confidence Alone Improves Reasoning](https://arxiv.org/abs/2505.22660)
 
 - [2505] [![Stargazers](https://img.shields.io/github/stars/sail-sg/VeriFree?style=social)](https://github.com/sail-sg/VeriFree) [VeriFree: Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493)
 
@@ -196,7 +196,7 @@ Scaling preference data for reward models training to enable policy learning on 
   
 - [2402] [Code as Reward: Empowering Reinforcement Learning with VLMs](https://arxiv.org/abs/2402.04764)
   
-- [2402] [RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback](https://arxiv.org/abs/2402.03681)
+- [2402] [![Stargazers](https://img.shields.io/github/stars/yufeiwang63/RL-VLM-F?style=social)](https://github.com/yufeiwang63/RL-VLM-F) [RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback](https://arxiv.org/abs/2402.03681)
   
 
 ### Process Supervision
@@ -205,7 +205,7 @@ Scaling preference data for reward models training to enable policy learning on 
   
 - [2501] [The Lessons of Developing Process Reward Models in Mathematical Reasoning](https://arxiv.org/abs/2501.07301) - Supervising intermediate reasoning steps rather than just final outcomes
   
-- [2312] [Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935)
+- [2312] [![Stargazers](https://img.shields.io/github/stars/openreasoner/openr?style=social)](https://github.com/openreasoner/openr) [Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935)
   
 - [2305] [Let’s Verify Step by Step](https://arxiv.org/pdf/2305.20050)
 
@@ -214,11 +214,11 @@ Scaling preference data for reward models training to enable policy learning on 
 Providing benchmarks or gyms to evaluate the model proformance. We divided Evaluation and Benchmarks into 4 types: Reward Model Benchmarks, Game Gym, Web Search, Computer Use and New Evaluation Dimension.
 
 ### Reward Model Benchmarks
-- [2403] [RewardBench](https://arxiv.org/abs/2403.13787) - Comprehensive benchmark for reward model evaluation
+- [2403] [![Stargazers](https://img.shields.io/github/stars/allenai/reward-bench?style=social)](https://github.com/allenai/reward-bench) [RewardBench](https://arxiv.org/abs/2403.13787) - Comprehensive benchmark for reward model evaluation
 
 - [2411] [VL-RewardBench](https://arxiv.org/abs/2411.17451) - Vision-language reward model benchmarking
 
-- [2501] [PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models](https://arxiv.org/pdf/2501.03124)
+- [2501] [![Stargazers](https://img.shields.io/github/stars/ssmisya/PRMBench?style=social)](https://github.com/ssmisya/PRMBench) [PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models](https://arxiv.org/pdf/2501.03124)
 
 - [2412] [PROCESSBENCH](https://arxiv.org/pdf/2412.06559)
 
