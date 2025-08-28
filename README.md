@@ -223,8 +223,6 @@ Providing benchmarks or gyms to evaluate the model proformance. We divided Evalu
 - [2412] [![Stargazers](https://img.shields.io/github/stars/QwenLM/ProcessBench?style=social)](https://github.com/QwenLM/ProcessBench) [PROCESSBENCH](https://arxiv.org/pdf/2412.06559)
 
 ### Game Gym
-
-- [2406] [![Stargazers](https://img.shields.io/github/stars/Joshuaclymer/GameBench?style=social)](https://github.com/Joshuaclymer/GameBench) [GameBench: Evaluating strategic reasoning abilities of llm agents](https://arxiv.org/abs/2406.06613)
   
 - [2402] [![Stargazers](https://img.shields.io/github/stars/jinhaoduan/GTBench?style=social)](https://github.com/jinhaoduan/GTBench) [GTBench: Uncovering the strategic reasoning limitations of llms via game-theoretic evaluations](https://arxiv.org/abs/2402.12348)
   
@@ -236,6 +234,8 @@ Providing benchmarks or gyms to evaluate the model proformance. We divided Evalu
 
 - [2505] [![Stargazers](https://img.shields.io/github/stars/OS-Copilot/ScienceBoard?style=social)](https://github.com/OS-Copilot/ScienceBoard) [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/pdf/2505.19897)
 
+- [2406] [![Stargazers](https://img.shields.io/github/stars/Joshuaclymer/GameBench?style=social)](https://github.com/Joshuaclymer/GameBench) [GameBench: Evaluating strategic reasoning abilities of llm agents](https://arxiv.org/abs/2406.06613)
+- 
 ### Web Search Evaluation
 
 - [2311] [GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983)
