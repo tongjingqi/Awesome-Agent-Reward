@@ -231,7 +231,7 @@ Providing benchmarks or gyms to evaluate the model proformance. We divided Evalu
 - [2505] [![Stargazers](https://img.shields.io/github/stars/OS-Copilot/ScienceBoard?style=social)](https://github.com/OS-Copilot/ScienceBoard) [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/pdf/2505.19897)
 
 - [2406] [![Stargazers](https://img.shields.io/github/stars/Joshuaclymer/GameBench?style=social)](https://github.com/Joshuaclymer/GameBench) [GameBench: Evaluating strategic reasoning abilities of llm agents](https://arxiv.org/abs/2406.06613)
-- 
+
 ### Web Search Evaluation
 
 - [2311] [GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983)
