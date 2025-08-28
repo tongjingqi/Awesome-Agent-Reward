@@ -121,8 +121,6 @@ Design reward function and synthesis data to scale up the quantities of the real
 
 - [2505] [![Stargazers](https://img.shields.io/github/stars/GuanxingLu/vlarl?style=social)](https://github.com/GuanxingLu/vlarl) [VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning](https://arxiv.org/abs/2505.18719) -  Reward design in embodied AI systems
   
-- [2412] [![Stargazers](https://img.shields.io/github/stars/generalist-distillation/RLDG?style=social)](https://github.com/generalist-distillation/RLDG) [RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning](https://arxiv.org/pdf/2412.09858)
-
 - [2501] [Improving vision-language-action model with online reinforcement learning](https://arxiv.org/pdf/2501.16664)
 
 - [2505] [![Stargazers](https://img.shields.io/github/stars/gen-robot/RL4VLA?style=social)](https://github.com/gen-robot/RL4VLA) [What Can RL Bring to VLA Generalization?](https://arxiv.org/pdf/2505.19789)
