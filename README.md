@@ -185,9 +185,9 @@ Scaling preference data for reward models training to enable policy learning on 
 - [2408] [Generative Verifiers: Reward Modeling as Next-Token Prediction](https://arxiv.org/pdf/2408.15240)
 
 ### Reward Model Pretrain
-- [2505] [WorldPM: Scaling Human Preference Modeling](https://arxiv.org/abs/2505.10527) - Exploring scalability of preference modeling using 15M human forum data, showing clear scaling laws in objective tasks like mathematics
+- [2505] [![Stargazers](https://img.shields.io/github/stars/QwenLM/WorldPM?style=social)](https://github.com/QwenLM/WorldPM) [WorldPM: Scaling Human Preference Modeling](https://arxiv.org/abs/2505.10527) - Exploring scalability of preference modeling using 15M human forum data, showing clear scaling laws in objective tasks like mathematics
   
-- [2507] [POLAR：Pre-Trained Policy Discriminators are General Reward Models](https://arxiv.org/pdf/2507.05197)
+- [2507] [![Stargazers](https://img.shields.io/github/stars/InternLM/POLAR?style=social)](https://github.com/InternLM/POLAR) [POLAR：Pre-Trained Policy Discriminators are General Reward Models](https://arxiv.org/pdf/2507.05197)
   
 ### Multi-Modal Reward Models  
 - [2505] [![Stargazers](https://img.shields.io/github/stars/jishengpeng/WavReward?style=social)](https://github.com/jishengpeng/WavReward) [WavReward: Spoken Dialogue Models With Generalist Reward Evaluators](https://arxiv.org/abs/2505.09558) - Reward evaluation for spoken dialogue systems
@@ -207,7 +207,7 @@ Scaling preference data for reward models training to enable policy learning on 
   
 - [2312] [![Stargazers](https://img.shields.io/github/stars/openreasoner/openr?style=social)](https://github.com/openreasoner/openr) [Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935)
   
-- [2305] [Let’s Verify Step by Step](https://arxiv.org/pdf/2305.20050)
+- [2305] [![Stargazers](https://img.shields.io/github/stars/openai/prm800k?style=social)](https://github.com/openai/prm800k) [Let’s Verify Step by Step](https://arxiv.org/pdf/2305.20050)
 
 ## Evaluation and Benchmarks
 
@@ -216,19 +216,19 @@ Providing benchmarks or gyms to evaluate the model proformance. We divided Evalu
 ### Reward Model Benchmarks
 - [2403] [![Stargazers](https://img.shields.io/github/stars/allenai/reward-bench?style=social)](https://github.com/allenai/reward-bench) [RewardBench](https://arxiv.org/abs/2403.13787) - Comprehensive benchmark for reward model evaluation
 
-- [2411] [VL-RewardBench](https://arxiv.org/abs/2411.17451) - Vision-language reward model benchmarking
+- [2411] [![Stargazers](https://img.shields.io/github/stars/vl-rewardbench/VL_RewardBench?style=social)](https://github.com/vl-rewardbench/VL_RewardBench) [VL-RewardBench](https://arxiv.org/abs/2411.17451) - Vision-language reward model benchmarking
 
 - [2501] [![Stargazers](https://img.shields.io/github/stars/ssmisya/PRMBench?style=social)](https://github.com/ssmisya/PRMBench) [PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models](https://arxiv.org/pdf/2501.03124)
 
-- [2412] [PROCESSBENCH](https://arxiv.org/pdf/2412.06559)
+- [2412] [![Stargazers](https://img.shields.io/github/stars/QwenLM/ProcessBench?style=social)](https://github.com/QwenLM/ProcessBench) [PROCESSBENCH](https://arxiv.org/pdf/2412.06559)
 
 ### Game Gym
 
-- [2406] [GameBench: Evaluating strategic reasoning abilities of llm agents](https://arxiv.org/abs/2406.06613)
+- [2406] [![Stargazers](https://img.shields.io/github/stars/Joshuaclymer/GameBench?style=social)](https://github.com/Joshuaclymer/GameBench) [GameBench: Evaluating strategic reasoning abilities of llm agents](https://arxiv.org/abs/2406.06613)
   
-- [2402] [GTBench: Uncovering the strategic reasoning limitations of llms via game-theoretic evaluations](https://arxiv.org/abs/2402.12348)
+- [2402] [![Stargazers](https://img.shields.io/github/stars/jinhaoduan/GTBench?style=social)](https://github.com/jinhaoduan/GTBench) [GTBench: Uncovering the strategic reasoning limitations of llms via game-theoretic evaluations](https://arxiv.org/abs/2402.12348)
   
-- [2412] [GameArena: Evaluating LLM Reasoning through Live Computer Games](https://arxiv.org/abs/2412.06394)
+- [2412] [![Stargazers](https://img.shields.io/github/stars/lmgame-org/GamingAgent?style=social)](https://github.com/lmgame-org/GamingAgent) [GameArena: Evaluating LLM Reasoning through Live Computer Games](https://arxiv.org/abs/2412.06394)
   
 - [2403] [![Stargazers](https://img.shields.io/github/stars/CUHK-ARISE/GAMABench?style=social)](https://github.com/CUHK-ARISE/GAMABench) [How Far Are We on the Decision-Making of LLMs? Evaluating LLMs’ Gaming Ability in Multi-Agent Environments](https://arxiv.org/abs/2403.11807)
   
@@ -249,13 +249,13 @@ Providing benchmarks or gyms to evaluate the model proformance. We divided Evalu
 - [2504] [![Stargazers](https://img.shields.io/github/stars/PALIN2018/BrowseComp-ZH?style=social)](https://github.com/PALIN2018/BrowseComp-ZH) [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](https://arxiv.org/abs/2504.19314)
   
 ### Computer Use Evaluation
-- [2406] [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/pdf/2406.12045)
+- [2406] [![Stargazers](https://img.shields.io/github/stars/sierra-research/tau-bench?style=social)](https://github.com/sierra-research/tau-bench) [τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains](https://arxiv.org/pdf/2406.12045)
 
 - [2404] [![Stargazers](https://img.shields.io/github/stars/xlang-ai/OSWorld?style=social)](https://github.com/xlang-ai/OSWorld) [OSWORLD: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/pdf/2404.07972)
   
-- [2412] [TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](https://arxiv.org/abs/2412.14161)
+- [2412] [![Stargazers](https://img.shields.io/github/stars/TheAgentCompany/TheAgentCompany?style=social)](https://github.com/TheAgentCompany/TheAgentCompany) [TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](https://arxiv.org/abs/2412.14161)
   
-- [2403] [WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?](https://arxiv.org/abs/2403.07718)
+- [2403] [![Stargazers](https://img.shields.io/github/stars/ServiceNow/WorkArena?style=social)](https://github.com/ServiceNow/WorkArena) [WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?](https://arxiv.org/abs/2403.07718)
 
 - [2504] [![Stargazers](https://img.shields.io/github/stars/openai/simple-evals?style=social)](https://github.com/openai/simple-evals) [BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516)
 
