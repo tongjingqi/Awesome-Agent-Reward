@@ -233,10 +233,6 @@ Providing benchmarks or gyms to evaluate the model proformance. We divided Evalu
 - [2403] [![Stargazers](https://img.shields.io/github/stars/CUHK-ARISE/GAMABench?style=social)](https://github.com/CUHK-ARISE/GAMABench) [How Far Are We on the Decision-Making of LLMs? Evaluating LLMs’ Gaming Ability in Multi-Agent Environments](https://arxiv.org/abs/2403.11807)
   
 - [2411] [![Stargazers](https://img.shields.io/github/stars/balrog-ai/BALROG?style=social)](https://github.com/balrog-ai/BALROG) [Balrog: Benchmarking agentic llm and vlm reasoning on games](https://arxiv.org/abs/2411.13543)
-  
-- [2503] [![Stargazers](https://img.shields.io/github/stars/DeciBrain-Group/DSGBench?style=social)](https://github.com/DeciBrain-Group/DSGBench) [DSGBench: A diverse strategic game benchmark for evaluating llm-based agents in complex decision-making environments](https://arxiv.org/abs/2503.06047)
-  
-- [2410] [![Stargazers](https://img.shields.io/github/stars/Thisisus7/ING-VP?style=social)](https://github.com/Thisisus7/ING-VP) [ING-VP: Mllms cannot play easy vision-based games yet](https://arxiv.org/abs/2410.06555)
 
 - [2505] [![Stargazers](https://img.shields.io/github/stars/OS-Copilot/ScienceBoard?style=social)](https://github.com/OS-Copilot/ScienceBoard) [ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows](https://arxiv.org/pdf/2505.19897)
 
