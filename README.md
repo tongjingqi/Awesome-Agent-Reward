@@ -63,7 +63,7 @@ Transforming general tasks which usually trained through Pretraining and SFT, in
 
 - [2506] [Reinforcement Pre-training](https://arxiv.org/abs/2506.08007) - Converting next token prediction tasks into verifiable rewards where the next token serves as the verification signal
 
-- [2503] [Learning to Reason for Long-Form Story Generation](https://arxiv.org/abs/2503.22828) - Constructing next chapter prediction tasks for story generation, using subsequent chapters as ground truth for reward construction
+- [2503] [![Stargazers](https://img.shields.io/github/stars/Alex-Gurung/ReasoningNCP?style=social)](https://github.com/Alex-Gurung/ReasoningNCP) [Learning to Reason for Long-Form Story Generation](https://arxiv.org/abs/2503.22828) - Constructing next chapter prediction tasks for story generation, using subsequent chapters as ground truth for reward construction
 
 - [2506] [![Stargazers](https://img.shields.io/github/stars/OpenBMB/RLPR?style=social)](https://github.com/OpenBMB/RLPR) [RLPR: Extrapolating RLVR to General Domains without Verifiers](https://arxiv.org/abs/2506.18254) - Extending reinforcement learning from verifiable reasoning to general domains
 
@@ -125,14 +125,14 @@ Design reward function and synthesis data to scale up the quantities of the real
 
 - [2501] [Improving vision-language-action model with online reinforcement learning](https://arxiv.org/pdf/2501.16664)
 
-- [2505] [What Can RL Bring to VLA Generalization?](https://arxiv.org/pdf/2505.19789)
+- [2505] [![Stargazers](https://img.shields.io/github/stars/gen-robot/RL4VLA?style=social)](https://github.com/gen-robot/RL4VLA) [What Can RL Bring to VLA Generalization?](https://arxiv.org/pdf/2505.19789)
 
 - [2505] [![Stargazers](https://img.shields.io/github/stars/Ariostgx/ript-vla?style=social)](https://github.com/Ariostgx/ript-vla) [Interactive Post-Training for Vision-Language-Action Models](https://arxiv.org/pdf/2505.17016)
 
 ### World Model 
 Towards future: Using world models and real-world interactions for reward construction.
 
-- [2406] [Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485) - Exploring LLMs as world simulators for reward construction
+- [2406] [![Stargazers](https://img.shields.io/github/stars/cognitiveailab/GPT-simulator?style=social)](https://github.com/cognitiveailab/GPT-simulator) [Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485) - Exploring LLMs as world simulators for reward construction
 
 - [2508] [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
   
