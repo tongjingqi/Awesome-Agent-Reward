@@ -104,18 +104,16 @@ Design reward function and synthesis data to scale up the quantities of the real
 - [2504] [![Stargazers](https://img.shields.io/github/stars/RUC-NLPIR/WebThinker?style=social)](https://github.com/RUC-NLPIR/WebThinker) [WebThinker: Empowering Large Reasoning Models with Deep Research Capability](https://arxiv.org/pdf/2504.21776)
 
 ### GUI
-- [2506] [![Stargazers](https://img.shields.io/github/stars/sunblaze-ucb/AgentSynth?style=social)](https://github.com/sunblaze-ucb/AgentSynth) [AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents](https://arxiv.org/abs/2506.14205)
 
 - [2506] [![Stargazers](https://img.shields.io/github/stars/OpenBMB/AgentCPM-GUI?style=social)](https://github.com/OpenBMB/AgentCPM-GUI) [AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning](https://arxiv.org/pdf/2506.01391)
 
 - [2505] [![Stargazers](https://img.shields.io/github/stars/dvlab-research/ARPO?style=social)](https://github.com/dvlab-research/ARPO) [ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay](https://arxiv.org/pdf/2505.16282)
 
-- [2505] [![Stargazers](https://img.shields.io/github/stars/Yuqi-Zhou/GUI-G1?style=social)](https://github.com/Yuqi-Zhou/GUI-G1) [GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents](https://arxiv.org/pdf/2505.15810)
-
 - [2504] [![Stargazers](https://img.shields.io/github/stars/ritzz-ai/GUI-R1?style=social)](https://github.com/ritzz-ai/GUI-R1) [GUI-R1: A Generalist R1-Style Vision-Language Action Model For GUI Agents](https://arxiv.org/pdf/2504.10458)
 
 - [2412] [![Stargazers](https://img.shields.io/github/stars/OS-Copilot/OS-Genesis?style=social)](https://github.com/OS-Copilot/OS-Genesis) [OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis](https://arxiv.org/pdf/2412.19723)
 
+- [2506] [![Stargazers](https://img.shields.io/github/stars/sunblaze-ucb/AgentSynth?style=social)](https://github.com/sunblaze-ucb/AgentSynth) [AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents](https://arxiv.org/abs/2506.14205)
   
 ### Embodied AI & Vision-Language-Action Model
 
