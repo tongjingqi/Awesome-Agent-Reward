@@ -128,12 +128,12 @@ Design reward function and synthesis data to scale up the quantities of the real
 ### World Model 
 Towards future: Using world models and real-world interactions for reward construction.
 
-- [2406] [![Stargazers](https://img.shields.io/github/stars/cognitiveailab/GPT-simulator?style=social)](https://github.com/cognitiveailab/GPT-simulator) [Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485) - Exploring LLMs as world simulators for reward construction
-
 - [2508] [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
   
 - [2508] [![Stargazers](https://img.shields.io/github/stars/SkyworkAI/Matrix-Game?style=social)](https://github.com/SkyworkAI/Matrix-Game) [Matrix-Game 2.0: An Open-Source, Real-Time, andStreaming Interactive World Model](https://arxiv.org/pdf/2508.13009)
-  
+
+- [2406] [![Stargazers](https://img.shields.io/github/stars/cognitiveailab/GPT-simulator?style=social)](https://github.com/cognitiveailab/GPT-simulator) [Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485) - Exploring LLMs as world simulators for reward construction
+
 ## Unsupervised Reward Construction
 
 Finding reward signals from model internals. Model generates data to train itself. We divided Unsupervised Reward Construction into 2 types, including Proposer and Solver and the discussion of can Large Reasoning Models Self-Train.
