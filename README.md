@@ -74,11 +74,11 @@ Transforming general tasks which usually trained through Pretraining and SFT, in
 Scaling difficuity of task through curriculum learning, converting sparse reward to dense reward.
 - [2507] [Blending Supervised and Reinforcement Fine-Tuning with Prefix Sampling](https://arxiv.org/abs/2507.01679)
 
-- [2505] [![Stargazers](https://img.shields.io/github/stars/liumy2010/UFT?style=social)](https://github.com/liumy2010/UFT) [UFT: Unifying Supervised and Reinforcement Fine-Tuning](https://arxiv.org/pdf/2505.16984)
-
 - [2402] [![Stargazers](https://img.shields.io/github/stars/WooooDyy/LLM-Reverse-Curriculum-RL?style=social)](https://github.com/WooooDyy/LLM-Reverse-Curriculum-RL) [Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/pdf/2402.05808)
 
 - [2405] [![Stargazers](https://img.shields.io/github/stars/StoneT2000/rfcl?style=social)](https://github.com/StoneT2000/rfcl) [Reverse Forward Curriculum Learning for Extreme Sample and Demonstration Efficiency in Reinforcement Learning](https://arxiv.org/pdf/2405.03379)
+
+- [2505] [![Stargazers](https://img.shields.io/github/stars/liumy2010/UFT?style=social)](https://github.com/liumy2010/UFT) [UFT: Unifying Supervised and Reinforcement Fine-Tuning](https://arxiv.org/pdf/2505.16984)
 
 ## Real-World Task Reward Construction
 
