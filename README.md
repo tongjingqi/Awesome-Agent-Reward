@@ -5,10 +5,10 @@ A curated list of awesome resources about reward construction for AI agents. Thi
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Verifiable Task Construction](#verifiable-task-construction)
+- [Synthesizing Verifiable Task](#verifiable-task-construction)
 - [Real-World Task Reward Construction](#real-world-task-reward-construction)
 - [Unsupervised Reward Construction](#unsupervised-reward-construction)
-- [Reward Model Construction](#reward-model-construction)
+- [Reward Model](#reward-model)
 - [Evaluation and Benchmarks](#evaluation-and-benchmarks)
 - [Contributing](#contributing)
 
@@ -34,7 +34,7 @@ Reward construction is the process of designing and collecting reward signals th
 - **Key Components**: Environmental rewards, autonomous interaction, continuous experience streams, non-human planning and reasoning
 
 In conclusion, reward construction provides **interactive environments** and **learning signals**. It becomes crucial for AI agent to **get experience for new project**. 
-We divided Reward Construction research into 5 categories, including **Verifiable Task Construction**, **Real-World Task Reward Construction**, **Unsupervised Reward Construction**, **Reward Model Construction** and **Evaluation and Benchmarks**.
+We divided Reward Construction research into 5 categories, including **Synthesizing Verifiable Task**, **Real-World Task Reward Construction**, **Unsupervised Reward Construction**, **Reward Model** and **Evaluation and Benchmarks**.
 
 ## Synthesizing Verifiable Task
 
