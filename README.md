@@ -1,3 +1,5 @@
+![image](top.png)
+
 # Awesome-Agent-Reward-Construction
 
 A curated list of awesome resources about reward construction for AI agents. This repository covers cutting-edge research, and practical guides on defining and collecting rewards to build more intelligent and aligned AI agents.
